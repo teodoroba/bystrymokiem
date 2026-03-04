@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bystrymokiem.pl/sitemap.xml
