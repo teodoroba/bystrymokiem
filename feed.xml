@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-03-05T19:32:41+01:00</updated>
+    <updated>2026-03-06T08:34:00+01:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -36,15 +36,25 @@
         </author>
         <link href="https://bystrymokiem.pl/zanim-padnie-robimy-to-cztery-modele-decyzyjne/"/>
         <id>https://bystrymokiem.pl/zanim-padnie-robimy-to-cztery-modele-decyzyjne/</id>
+        <media:content url="https://bystrymokiem.pl/media/posts/7/2d4dd326-d6f0-44a5-a6c4-1778237d13e5.jpg" medium="image" />
+            <category term="#nemawashi"/>
+            <category term="#OneBreathOneCheck"/>
+            <category term="#Kaizen Shingo"/>
+            <category term="#Hansei"/>
+            <category term="#Hanko"/>
+            <category term="#Go-NoGo"/>
+            <category term="#Checklista"/>
 
         <updated>2026-03-02T09:11:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://bystrymokiem.pl/media/posts/7/2d4dd326-d6f0-44a5-a6c4-1778237d13e5.jpg" alt="" />
                     W wielogodzinnych zebraniach, gdzie przy stole zasiadają najdrożsi menedżerowie firmy i gdzie łączna wartość ich roboczogodzin przekracza niejednokrotnie godzinny postój fabryki, zapada decyzja — i jest to prawidłowość godna uwagi — rzadko lepsza od tej, którą mogły podjąć trzy osoby w kwadrans przy espresso i&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://bystrymokiem.pl/media/posts/7/2d4dd326-d6f0-44a5-a6c4-1778237d13e5.jpg" class="type:primaryImage" alt="" /></p>
                 <p>W wielogodzinnych zebraniach, gdzie przy stole zasiadają najdrożsi menedżerowie firmy i gdzie łączna wartość ich roboczogodzin przekracza niejednokrotnie godzinny postój fabryki, zapada decyzja — i jest to prawidłowość godna uwagi — rzadko lepsza od tej, którą mogły podjąć trzy osoby w kwadrans przy espresso i kartce papieru.</p><p>W zakładzie produkcyjnym FMCG wytwarzającym chemię gospodarczą decyzja o starcie nowego wariantu produktu zapadła mimo niezakończonych testów stabilności. W standardowych wdrożeniach miała zastosowanie walidacja wyrobu wynikająca z procedury projektowania nowych produktów. Tym razem jednak Dyrektor Handlowy postawił sprawę jasno: to jest nasza szansa, albo wskoczymy do pociągu, albo nie. Controlling potwierdził, że marża uzasadnia ryzyko. Technologia podkreśliła, że wyniki są obiecujące, choć jak produkt zachowa się w czasie — tego jeszcze nie wiadomo. Produkcja i utrzymanie ruchu potwierdziły gotowość, argumenty krążyły w kółko — część uczestników broniła swoich stanowisk, część milczała, bo robota i tak będzie, a przecież odpowiedzialność już niekoniecznie. Prezes, widząc zgodę większości i ryzyko, które wydawało mu się akceptowalne (nie raz takie akcje się udawały), dał zielone światło.</p><p>Tydzień później podczas kontroli jakości przed wysyłką produkt finalny uległ rozwarstwieniu — strata, niedowieziony termin i gęste tłumaczenia przed nowym klientem, którego właśnie miano zdobyć. Pociąg odjechał. Decyzja była wspólna. Koszt już nie do końca.</p><p>Nikt nie powiedział uruchamiamy bez pełnych danych. Granica przesunęła się przez spiętrzenie argumentacji i opinii, nikt formalnie jej nie przekroczył.
 To co opisuję dalej ma japońskie nazwy, ale mechanizmy są uniwersalne — sam doświadczyłem ich niejednokrotnie i większość z nas zna je na wylot z autopsji, zazwyczaj bez teorii i bez podręcznika. Nie ma tu instrukcji jak tego uniknąć. Jest opis mechanizmów, które do tego prowadzą oraz narzędzi, które zmieniają prawdopodobieństwo ale nie eliminują ryzyka.</p><ol>
 <li>Bez bramki decyzyjnej</li>
@@ -73,15 +83,24 @@ Hansei to refleksja po fakcie skierowana nie na skutki tylko na założenia. Nie
         </author>
         <link href="https://bystrymokiem.pl/czlowiek-w-ruchu/"/>
         <id>https://bystrymokiem.pl/czlowiek-w-ruchu/</id>
+        <media:content url="https://bystrymokiem.pl/media/posts/6/Praca-na-linii-produkcyjnej.png" medium="image" />
+            <category term="#safety first"/>
+            <category term="#people flow"/>
+            <category term="#muri"/>
+            <category term="#line layout"/>
+            <category term="#ergonomia"/>
+            <category term="#Kaizen ergonomics"/>
 
         <updated>2026-02-25T17:50:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://bystrymokiem.pl/media/posts/6/Praca-na-linii-produkcyjnej.png" alt="" />
                     W tekście o układzie linii pisałem o tym, że decyzje przestrzenne mają długi ogon — zły układ kosztuje przez lata, bo zmiana go po uruchomieniu jest droga albo niemożliwa. Ergonomia ma ten sam problem co layout, z tą różnicą, że jest trudniej uchwytna — layout&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://bystrymokiem.pl/media/posts/6/Praca-na-linii-produkcyjnej.png" class="type:primaryImage" alt="" /></p>
                 <p>W tekście o układzie linii pisałem o tym, że decyzje przestrzenne mają długi ogon — zły układ kosztuje przez lata, bo zmiana go po uruchomieniu jest droga albo niemożliwa. Ergonomia ma ten sam problem co layout, z tą różnicą, że jest trudniej uchwytna — layout to rzut dwuwymiarowy, człowiek operuje w trzech wymiarach, a tych wymiarów nie widać na planie linii. Kiedy maszyny stoją, przenośnik biegnie i stanowiska są ustawione, zostaje już tylko regulacja wysokości blatu o kilka centymetrów, naklejka z instrukcją postawy i mata antyzmęczeniowa — korekta kosmetyczna w układzie, który był projektowany bez człowieka.</p><p>Ciało adaptuje się do złego układu, ale ta adaptacja nie jest neutralna — to jest powolne nadwyrężanie kręgosłupa, nadgarstków i barków, które nie daje o sobie znać od razu, tylko po miesiącach pracy w wymuszonych pozycjach.</p><p>W systemie pracującym na niskim poziomie pracy w toku każdy mikroprzestój wynikający z niewygodnego ruchu szybciej przekłada się na wahanie rytmu. Ergonomia przestaje być kwestią komfortu, a staje się parametrem przepustowości.</p><ol>
 <li>Ostatni w kolejce</li>
 </ol>
@@ -109,15 +128,21 @@ Nie wszystko jest do przewidzenia, ale czas poświęcony na analizę wariantów 
         </author>
         <link href="https://bystrymokiem.pl/geometria-jako-pierwsza-decyzja-o-przeplywie/"/>
         <id>https://bystrymokiem.pl/geometria-jako-pierwsza-decyzja-o-przeplywie/</id>
+        <media:content url="https://bystrymokiem.pl/media/posts/5/ChatGPT-Image-6-mar-2026-08_07_27.png" medium="image" />
+            <category term="#mechanika przepływu"/>
+            <category term="#line layout"/>
+            <category term="#liczba Reynoldsa"/>
 
         <updated>2026-02-22T22:48:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://bystrymokiem.pl/media/posts/5/ChatGPT-Image-6-mar-2026-08_07_27.png" alt="Mechanika przeplywu w procesach produkcyjnych" />
                     Liczba Reynoldsa opisuje charakter przepływu płynu w przewodzie: Re = ρvD/μ Gdy Re jest małe, przepływ jest laminarny: uporządkowany, przewidywalny, warstwowy. Gdy rośnie, pojawia się turbulencja. Nie stopniowo. Skokowo. To nie jest artykuł o reologii. Produkt na linii nie jest cieczą, operator nie jest cząsteczką&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://bystrymokiem.pl/media/posts/5/ChatGPT-Image-6-mar-2026-08_07_27.png" class="type:primaryImage" alt="Mechanika przeplywu w procesach produkcyjnych" /></p>
                 <p>Liczba Reynoldsa opisuje charakter przepływu płynu w przewodzie:</p><p>Re = ρvD/μ</p><p>Gdy Re jest małe, przepływ jest laminarny: uporządkowany, przewidywalny, warstwowy. Gdy rośnie, pojawia się turbulencja. Nie stopniowo. Skokowo.</p><p>To nie jest artykuł o reologii. Produkt na linii nie jest cieczą, operator nie jest cząsteczką płynu, a takt nie jest lepkością dynamiczną. Ale mechanika jest podobna: każda zmiana kierunku wprowadza opory, każdy opór ma swój koszt, a koszt ujawnia się dokładnie wtedy, gdy system jest obciążony. Przy spokojnym rytmie zakręt w układzie linii jest niewidoczny. Przy pełnym wolumenie, przy zmianie asortymentu, przy absencji operatora: staje się wąskim gardłem.</p><p>Geometria linii to pierwsza decyzja o oporach przepływu. Najczęściej podejmowana zanim ktokolwiek o tych oporach pomyślał.</p><p>Układ „I”
 Intuicyjny do tego stopnia, że w wielu zakładach nie jest traktowany jako decyzja. Maszyny stoją jedna za drugą, materiał jedzie przed siebie, operator pracuje przy swoim stanowisku.</p><p>Płaci się za to powierzchnią w jednej osi: linia od wyparki próżniowej przez mieszanie, formowanie i chłodzenie potrafi zająć kilkadziesiąt metrów bez żadnego zakrętu. W teorii działa dobrze tam, gdzie przepustowość jest priorytetem, a asortyment wąski: linie z dyspenserem opakowań, dozowaniem, rozlewem, procesem termicznym, zamykaniem i etykietowaniem — długie serie, wąski asortyment. W praktyce możliwy niemal wyłącznie w projektach greenfield, gdzie hala jest projektowana pod proces. W istniejących zakładach zawsze jest jakiś słup w złym miejscu, jakaś trasa mediów przecinająca oś linii, jakiś autoklaw zakotwiczony przy instalacji parowej, której przesunięcie kosztowałoby więcej niż reorganizacja całej reszty. Układ „I” to punkt odniesienia, nie standard.</p><p>Operator jest przypisany do stanowiska. Przy wysokim takcie rytm narzuca maszyna wiodąca i nie ma potrzeby przemieszczania. Przy absencji linia nie sprzyja elastycznemu przypisaniu ludzi. Układ „I” zakłada pełną obsadę. Kiedy jej nie ma, przepustowość spada nieproporcjonalnie do liczby brakujących operatorów. To jest koszt wyboru: przepustowość w zamian za elastyczność.</p><p>Układ „L”
 Pojawia się gdy hala narzuca geometrię albo gdy jeden etap procesu jest stacjonarny i duży, a pozostałe muszą się dopasować. Homogenizator zakotwiczony w instalacji mediów, tubiarka z trudnym dostępem palety, transporter zintegrowany z inną linią. Reszta linii obraca się wokół tej kotwicy pod kątem prostym. Układ „L” rzadko jest wyborem, częściej kompromisem z rzeczywistością budowlaną lub procesową.</p><p>Jeden zakręt to jeden punkt oporu. Kąt prosty jest najtańszy w wykonaniu, ale reologicznie najdroższy: przepływ traci pęd gwałtownie, a przy produktach wrażliwych na uderzenia każdy narożnik to potencjalne miejsce uszkodzenia lub zacięcia. W takich punktach sprawdza się karakuri: proste, bezkosztowe mechanizmy grawitacyjne lub sprężynowe pozycjonujące produkt bez energii i bez udziału operatora, przejmujące część kosztu, którego nie eliminuje geometria. Łuk redukuje opory, ale zajmuje więcej powierzchni i kosztuje więcej w instalacji. W praktyce wybór między kątem a łukiem rzadko jest świadomą decyzją projektową, częściej wynika z tego, co oferował dostawca transportu, ile miejsca zostało w narożniku, albo jaką wizję akurat dzisiaj miał prezes.</p><p>Narożnik jest też barierą dla operatora: fizyczną i percepcyjną. Dwa ramiona „L” to dwa odcinki ze słabym kontaktem wzrokowym między nimi. Koordynacja rytmu wymaga dodatkowej komunikacji, której układ „I” nie potrzebował.</p><p>Układ „U”
@@ -135,17 +160,28 @@ Wybór układu linii to decyzja, którą łatwo odłożyć na koniec projektu in
         </author>
         <link href="https://bystrymokiem.pl/przeplyw-w-malych-partiach-jako-dojrzaly-kompromis-produkcyjny/"/>
         <id>https://bystrymokiem.pl/przeplyw-w-malych-partiach-jako-dojrzaly-kompromis-produkcyjny/</id>
+        <media:content url="https://bystrymokiem.pl/media/posts/4/ChatGPT-Image-6-mar-2026-08_06_40.png" medium="image" />
+            <category term="#small batch flow"/>
+            <category term="#produkcja wsadowa"/>
+            <category term="#one piece flow"/>
+            <category term="#mechanika przepływu"/>
+            <category term="#little&#x27;s law"/>
+            <category term="#lead time"/>
+            <category term="#batch"/>
+            <category term="# WIP"/>
 
         <updated>2026-02-12T16:02:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://bystrymokiem.pl/media/posts/4/ChatGPT-Image-6-mar-2026-08_06_40.png" alt="" />
                     W produkcji łatwo koncentrować się na wydajności pojedynczych stanowisk, trudniej na ilości pracy, którą sami wprowadzamy do systemu. Tymczasem to właśnie poziom pracy w toku (WIP – Work in Process), rozumianej jako wszystkie rozpoczęte lecz nieukończone jednostki znajdujące się między operacjami w największym stopniu determinuje&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://bystrymokiem.pl/media/posts/4/ChatGPT-Image-6-mar-2026-08_06_40.png" class="type:primaryImage" alt="" /></p>
                 <p>W produkcji łatwo koncentrować się na wydajności pojedynczych stanowisk, trudniej na ilości pracy, którą sami wprowadzamy do systemu. Tymczasem to właśnie poziom pracy w toku (WIP – Work in Process), rozumianej jako wszystkie rozpoczęte lecz nieukończone jednostki znajdujące się między operacjami w największym stopniu determinuje czas przejścia produktu przez proces.</p><p>WIP obejmuje półprodukty w buforach międzyoperacyjnych, elementy w trakcie obróbki oraz partie oczekujące na kolejne stanowisko. Każda dodatkowa jednostka wprowadzona do systemu zwiększa średni czas przebywania produktu w procesie, o ile przepustowość pozostaje niezmienna.</p><p>Zanim więc zaczniemy zmieniać model pracy linii, warto precyzyjnie określić, jaki poziom pracy w toku dany proces jest w stanie obsłużyć stabilnie i przewidywalnie.</p><p>To właśnie tę zależność formalizuje prawo Little’a, które wiąże ilość pracy w toku z czasem przebywania produktu w systemie.</p><p>Lead time = praca w toku / przepustowość</p><p>Jeżeli przepustowość procesu pozostaje niezmienna, czas przejścia produktu przez system jest funkcją ilości WIP w toku.</p><p>W dyskusjach o przepływie często pojawia się one-piece flow jako rozwiązanie docelowe. Usunięcie zapasu rzeczywiście szybko ujawnia nierównowagę i problemy, dlatego przepływ jednej sztuki jest znakomitym narzędziem diagnostycznym. Trudność zaczyna się wtedy, gdy traktujemy go jako uniwersalny model pracy, niezależny od charakteru procesu.</p><p>W układach wielostanowiskowych całkowity brak bufora między operacjami może prowadzić do niestabilności, ponieważ nawet drobne odchylenie lub przestój na jednym stanowisku może stać się przyczyną zatrzymania całej linii. Produkcja wsadowa zapewnia ciągłość, ale kosztem długiego lead time’u.</p><p>Między tymi skrajnościami istnieje trzeci model – przepływ w małych partiach. Polega on na utrzymaniu pracy w toku na poziomie, który pozwala systemowi pracować stabilnie i przewidywalnie. Niewielkie bufory międzyoperacyjne rzędu kilku sztuk lub kilku cykli, nie służą do gromadzenia zapasu, lecz do amortyzacji krótkotrwałych wahań procesu, dzięki czemu problemy pozostają widoczne bez zatrzymywania całej linii przy każdym potknięciu.</p><p>Model ten opiera się na krótkich, powtarzalnych cyklach o stałym czasie trwania, w których uwzględniona jest zarówno produkcja, jak i zmiana asortymentu lub przezbrojenie. Ma to szczególne znaczenie w środowisku multi-SKU, gdzie gama produktów jest szeroka, a zmiany asortymentu występują często i stanowią element codziennej pracy. Zmiana nie jest tu traktowana jako strata, którą należy maksymalnie odsunąć w czasie, lecz jako zaplanowany element rytmu pracy. Dzięki temu możliwa staje się standaryzacja zarówno produkcji, jak i samego przezbrojenia, a proces zyskuje przewidywalność nawet przy dużej zmienności miksu produktowego.</p><p>Dlatego spór „batch versus one-piece flow” jest w dużej mierze fałszywą alternatywą. Istotniejsze pytanie brzmi:</p><p> jak mały zapas dany system jest w stanie obsłużyć stabilnie i przewidywalnie. 
-W wielu realnych procesach odpowiedzią nie jest ani jedna sztuka, ani duża partia, lecz świadomie dobrany small batch flow. To właśnie decyzja o poziomie pracy w toku staje się kluczową dźwignią optymalizacji.</p><p>Niezależnie jednak od wybranego modelu jedno pozostaje niezmienne: bez bezpośredniej obserwacji rzeczywistego przepływu na hali każda regulacja systemu oparta na założeniach, a nie na faktach, częściej pogarsza balans niż go poprawia.</p><p>#lean #production #wip #smallbatch #opf#prawo little’a</p>
+W wielu realnych procesach odpowiedzią nie jest ani jedna sztuka, ani duża partia, lecz świadomie dobrany small batch flow. To właśnie decyzja o poziomie pracy w toku staje się kluczową dźwignią optymalizacji.</p><p>Niezależnie jednak od wybranego modelu jedno pozostaje niezmienne: bez bezpośredniej obserwacji rzeczywistego przepływu na hali każda regulacja systemu oparta na założeniach, a nie na faktach, częściej pogarsza balans niż go poprawia.</p>
             ]]>
         </content>
     </entry>
@@ -156,15 +192,21 @@ W wielu realnych procesach odpowiedzią nie jest ani jedna sztuka, ani duża par
         </author>
         <link href="https://bystrymokiem.pl/gdzie-zaczyna-sie-standard-wydajnosci/"/>
         <id>https://bystrymokiem.pl/gdzie-zaczyna-sie-standard-wydajnosci/</id>
+        <media:content url="https://bystrymokiem.pl/media/posts/3/110-wyniku.png" medium="image" />
+            <category term="*RFT"/>
+            <category term="#bottle neck"/>
+            <category term="#FPY"/>
 
         <updated>2026-02-05T09:10:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://bystrymokiem.pl/media/posts/3/110-wyniku.png" alt="" />
                     W zakładzie produkcyjnym jedna ze zmian przez pewien okres regularnie kończyła pracę 40–45 minut wcześniej niż pozostałe. Nie kosztem planu. Wydajność liczona na godzinę była wyraźnie wyższa od standardowej, plan wykonany, FPY bez odchyleń, co w raportach wyglądało jak czysty zysk. W takich sytuacjach szybko&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://bystrymokiem.pl/media/posts/3/110-wyniku.png" class="type:primaryImage" alt="" /></p>
                 <p>W zakładzie produkcyjnym jedna ze zmian przez pewien okres regularnie kończyła pracę 40–45 minut wcześniej niż pozostałe. Nie kosztem planu. Wydajność liczona na godzinę była wyraźnie wyższa od standardowej, plan wykonany, FPY bez odchyleń, co w raportach wyglądało jak czysty zysk.</p><p>W takich sytuacjach szybko pojawia się pokusa dalszego przesuwania granicy. Skoro 110% jest możliwe, presja na jej dalsze przesuwanie rośnie. Problem w tym, że rzadko stoi za tym realna poprawa procesu. Znacznie częściej oznacza to, że standard nie opisuje już rzeczywistości.</p><p>Wydajność w produkcji zwykle sprowadza się do taktu maszyny, czyli liczby dobrych produktów, które proces jest w stanie wytwarzać w sposób powtarzalny w jednostce czasu. Ten takt nie jest wartością umowną. Wynika z konkretnych ograniczeń procesu.</p><p>Zawsze istnieje element – wąskie gardło – który spowalnia całość i pod który w praktyce balansuje się całą linię: transporter, napęd, dozownik, mechanizm formujący, strefa chłodzenia albo jedna sekcja robocza pracująca wolniej niż reszta. To właśnie ten element wyznacza realny standard procesu i powinien stanowić punkt odniesienia dla wskaźników wydajności.</p><p>Doświadczony operator zwykle widzi, gdzie proces faktycznie się ogranicza, i potrafi chwilowo przesunąć granicę właśnie w tym punkcie. W tym przypadku „poprawa wydajności” polegała na zmianie parametrów pracy napędu najwolniejszego transportera poprzez ingerencję w nastawy falownika. Linia przyspieszyła, czas zmiany się skrócił, a raportowany wynik wskazywał 110%. Jednocześnie zaczęły pojawiać się pierwsze sygnały dryfu jakości, rosło zużycie elementów, a sposób osiągnięcia wyniku wykraczał poza obowiązujące zasady BHP, czego jednak nie było widać w raportach wydajnościowych.</p><p>Nie była to poprawa procesu, lecz jego obejście. Jednocześnie wskazywało to, że rzeczywista granica wydajności może przebiegać w innym miejscu, niż zakładał obowiązujący standard. Kluczowe stało się sprawdzenie, czy granicę tę można przesunąć w sposób powtarzalny, przy zachowaniu jakości i bezpieczeństwa.</p><p>Wspólna analiza z operatorem, utrzymaniem ruchu i jakością pozwoliła zidentyfikować rzeczywiste wąskie gardło procesu i bezpiecznie skorygować standard o około 5%, zgodnie z jego powtarzalną zdolnością.</p><p>Różnica była zasadnicza.</p><p>110% było efektem obejścia wąskiego gardła 105% było efektem rzeczywistych możliwości procesu
 Sama inicjatywa została rozliczona uczciwie — również premią — pomimo faktu, że początkowo wiązała się z naruszeniem zasad, nie za sam wynik lecz za realny wkład w identyfikację rzeczywistych ograniczeń procesu i ich świadome przesunięcie.</p><p>Jeśli norma jest dobrze zmierzona i uwzględnia rzeczywistą zdolność procesu, 100% nie oznacza maksimum, lecz stabilny punkt odniesienia, wokół którego proces naturalnie się waha, przy zachowaniu jakości i bezpieczeństwa. Regularne wyniki rzędu 110% są zwykle sygnałem, że standard i wskaźnik wydajności zostały ustawione poniżej faktycznej zdolności procesu, albo że istnieje jeszcze przestrzeń do jej świadomego, bezpiecznego przesunięcia.</p>
             ]]>
@@ -177,18 +219,23 @@ Sama inicjatywa została rozliczona uczciwie — również premią — pomimo fa
         </author>
         <link href="https://bystrymokiem.pl/predictive-maintenance-raport-mniejszosci-na-hali-produkcyjnej/"/>
         <id>https://bystrymokiem.pl/predictive-maintenance-raport-mniejszosci-na-hali-produkcyjnej/</id>
+        <media:content url="https://bystrymokiem.pl/media/posts/2/ChatGPT-Image-6-mar-2026-08_29_08.png" medium="image" />
+            <category term="@predictive maintenance"/>
+            <category term="#precog maintenance"/>
+            <category term="#machine learnig"/>
+            <category term="#CMMS"/>
 
         <updated>2026-01-29T10:20:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    W filmie &quot;Raport mniejszości&quot; (2002) w reżyserii Stevena Spielberga przyszłe zdarzenia są wykrywane nie dzięki harmonogramom, lecz dzięki wczesnym sygnałom ostrzegawczym. To moje skojarzenie — metafora, która pomaga mi myśleć o tym, jak dziś można patrzeć na utrzymanie ruchu. Klasyczne preventive maintenance opiera się na&hellip;
+                        <img src="https://bystrymokiem.pl/media/posts/2/ChatGPT-Image-6-mar-2026-08_29_08.png" alt="" />
+                    W filmie “Raport mniejszości” (2002) w reżyserii Stevena Spielberga przyszłe zdarzenia są wykrywane nie dzięki harmonogramom, lecz dzięki wczesnym sygnałom ostrzegawczym. To moje skojarzenie — metafora, która pomaga mi myśleć o tym, jak dziś można patrzeć na utrzymanie ruchu. Klasyczne preventive maintenance opiera się na&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <pre><code>W filmie &quot;Raport mniejszości&quot; (2002) w reżyserii Stevena Spielberga przyszłe zdarzenia są wykrywane nie dzięki harmonogramom, lecz dzięki wczesnym sygnałom ostrzegawczym. To moje skojarzenie — metafora, która pomaga mi myśleć o tym, jak dziś można patrzeć na utrzymanie ruchu.
-</code></pre>
-<p>Klasyczne preventive maintenance opiera się na kalendarzu i doświadczeniu: przegląd co określony czas, często wymiana „na wszelki wypadek”. Predictive maintenance przesuwa akcent z pytania kiedy serwisować na pytanie, czy w zebranych danych widać, że coś zaczyna się zmieniać i ile mamy jeszcze czasu na spokojną reakcję. </p><p>Lean przez lata dobrze uporządkował prewencję: TPM, standardy, autonomiczne UR. Predictive maintenance nie stoi z tym w sprzeczności. Raczej prowokuje pytanie, czy przy ilości danych, które dziś zbieramy, da się reagować wcześniej i bardziej selektywnie.</p><p>Jedna obserwacja często wraca w dyskusjach: predictive maintenance nie zaczyna się od AI. Zaczyna się od danych, które w wielu zakładach już istnieją — w CMMS, SCADA, alarmach PLC, historii przestojów i interwencji UR. Zanim pojawią się algorytmy, pojawia się pytanie, czy potrafimy zobaczyć wzorce w tym, co już zapisujemy.</p><p>Jedną z ciekawszych zmian wydaje mi się przesunięcie momentu decyzji. Zamiast reagować po awarii albo działać wyłącznie według harmonogramu, pojawia się koncepcja reagowania wtedy, gdy dane zaczynają sygnalizować odchylenie — jeszcze zanim problem stanie się kosztowny. Na razie częściej jest to kierunek myślenia niż gotowe rozwiązanie.</p><p>Warto też jasno powiedzieć: predictive maintenance nie oznacza, że algorytm „wie lepiej”. Może wskazać sygnał, ale interpretacja nadal należy do ludzi, którzy znają proces i realia produkcji. Metafora „precogów” pomaga to sobie wyobrazić — nie chodzi o przewidywanie przyszłości, tylko o wcześniejsze dostrzeżenie sygnałów i analizę nieraz niepozornych aberracji.</p><p>Na koniec pytanie z ciekawości: czy narzędzia, z których dziś korzystacie w utrzymaniu ruchu, służą wyłącznie do prewencji i raportowania, czy ktoś już próbuje wykorzystywać je jako źródło sygnałów predykcyjnych?</p>
+                    <p><img src="https://bystrymokiem.pl/media/posts/2/ChatGPT-Image-6-mar-2026-08_29_08.png" class="type:primaryImage" alt="" /></p>
+                <p>W filmie “Raport mniejszości” (2002) w reżyserii Stevena Spielberga przyszłe zdarzenia są wykrywane nie dzięki harmonogramom, lecz dzięki wczesnym sygnałom ostrzegawczym. To moje skojarzenie — metafora, która pomaga mi myśleć o tym, jak dziś można patrzeć na utrzymanie ruchu.</p><p>Klasyczne preventive maintenance opiera się na kalendarzu i doświadczeniu: przegląd co określony czas, często wymiana „na wszelki wypadek”. Predictive maintenance przesuwa akcent z pytania kiedy serwisować na pytanie, czy w zebranych danych widać, że coś zaczyna się zmieniać i ile mamy jeszcze czasu na spokojną reakcję. </p><p>Lean przez lata dobrze uporządkował prewencję: TPM, standardy, autonomiczne UR. Predictive maintenance nie stoi z tym w sprzeczności. Raczej prowokuje pytanie, czy przy ilości danych, które dziś zbieramy, da się reagować wcześniej i bardziej selektywnie.</p><p>Jedna obserwacja często wraca w dyskusjach: predictive maintenance nie zaczyna się od AI tylko od od danych, które w wielu zakładach już istnieją — w CMMS, SCADA, alarmach PLC, historii przestojów i interwencji UR. Zanim pojawią się algorytmy, zastanówmy sę czy potrafimy zobaczyć wzorce w tym, co już zapisujemy.</p><p>Jedną z ciekawszych zmian wydaje mi się przesunięcie momentu decyzji. Zamiast reagować po awarii albo działać wyłącznie według harmonogramu, pojawia się koncepcja reagowania wtedy, gdy dane zaczynają sygnalizować odchylenie — jeszcze zanim problem stanie się kosztowny. Na razie częściej jest to kierunek myślenia niż gotowe rozwiązanie.</p><p>Warto też jasno powiedzieć: predictive maintenance nie oznacza, że algorytm „wie lepiej”. Może wskazać sygnał, ale interpretacja nadal należy do ludzi, którzy znają proces i realia produkcji. Metafora „precogów” pomaga to sobie wyobrazić — nie chodzi o przewidywanie przyszłości, tylko o wcześniejsze dostrzeżenie sygnałów i analizę nieraz niepozornych aberracji.</p>
             ]]>
         </content>
     </entry>
