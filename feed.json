@@ -20,15 +20,12 @@
                 "name": "Teodor Doroba"
             },
             "tags": [
-                   "@nadprodukcja",
-                   "#transformacja",
-                   "#respect for people",
-                   "#overproduction",
-                   "#mistrz-uczeń",
-                   "#craftmanship"
+                   "siedem strat",
+                   "marnotrawstwo",
+                   "#mistrz-uczeń"
             ],
             "date_published": "2026-03-05T14:09:33+01:00",
-            "date_modified": "2026-03-06T08:52:48+01:00"
+            "date_modified": "2026-03-07T09:35:17+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/zanim-padnie-robimy-to-cztery-modele-decyzyjne/",
@@ -41,16 +38,12 @@
                 "name": "Teodor Doroba"
             },
             "tags": [
-                   "#nemawashi",
-                   "#OneBreathOneCheck",
-                   "#Kaizen Shingo",
-                   "#Hansei",
-                   "#Hanko",
-                   "#Go-NoGo",
-                   "#Checklista"
+                   "one breathe-one check",
+                   "mechnika przepływu",
+                   "go-no go"
             ],
             "date_published": "2026-03-02T09:11:00+01:00",
-            "date_modified": "2026-03-06T07:57:03+01:00"
+            "date_modified": "2026-03-07T09:32:47+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/czlowiek-w-ruchu/",
@@ -63,15 +56,11 @@
                 "name": "Teodor Doroba"
             },
             "tags": [
-                   "#safety first",
-                   "#people flow",
-                   "#muri",
-                   "#line layout",
-                   "#ergonomia",
-                   "#Kaizen ergonomics"
+                   "mechnika przepływu",
+                   "kaizen"
             ],
             "date_published": "2026-02-25T17:50:00+01:00",
-            "date_modified": "2026-03-06T08:00:03+01:00"
+            "date_modified": "2026-03-07T09:31:51+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/geometria-jako-pierwsza-decyzja-o-przeplywie/",
@@ -84,12 +73,11 @@
                 "name": "Teodor Doroba"
             },
             "tags": [
-                   "#mechanika przepływu",
-                   "#line layout",
-                   "#liczba Reynoldsa"
+                   "mechnika przepływu",
+                   "layout"
             ],
             "date_published": "2026-02-22T22:48:00+01:00",
-            "date_modified": "2026-03-06T08:08:31+01:00"
+            "date_modified": "2026-03-07T09:31:14+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/przeplyw-w-malych-partiach-jako-dojrzaly-kompromis-produkcyjny/",
@@ -102,17 +90,12 @@
                 "name": "Teodor Doroba"
             },
             "tags": [
-                   "#small batch flow",
-                   "#produkcja wsadowa",
-                   "#one piece flow",
-                   "#mechanika przepływu",
-                   "#little&#x27;s law",
-                   "#lead time",
-                   "#batch",
-                   "# WIP"
+                   "single piece flow",
+                   "prawo Little&#x27;a",
+                   "mechnika przepływu"
             ],
             "date_published": "2026-02-12T16:02:00+01:00",
-            "date_modified": "2026-03-06T22:25:30+01:00"
+            "date_modified": "2026-03-07T09:30:31+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/gdzie-zaczyna-sie-standard-wydajnosci/",
@@ -125,12 +108,11 @@
                 "name": "Teodor Doroba"
             },
             "tags": [
-                   "*RFT",
-                   "#bottle neck",
-                   "#FPY"
+                   "standard wydajności",
+                   "KPI"
             ],
             "date_published": "2026-02-05T09:10:00+01:00",
-            "date_modified": "2026-03-06T08:18:52+01:00"
+            "date_modified": "2026-03-07T09:30:48+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/predictive-maintenance-raport-mniejszosci-na-hali-produkcyjnej/",
@@ -143,13 +125,11 @@
                 "name": "Teodor Doroba"
             },
             "tags": [
-                   "@predictive maintenance",
-                   "#precog maintenance",
-                   "#machine learnig",
-                   "#CMMS"
+                   "utrzymanie ruchu",
+                   "maintenance"
             ],
             "date_published": "2026-01-29T10:20:00+01:00",
-            "date_modified": "2026-03-06T08:34:00+01:00"
+            "date_modified": "2026-03-07T09:29:17+01:00"
         }
     ]
 }

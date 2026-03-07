@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-03-06T22:25:30+01:00</updated>
+    <updated>2026-03-07T09:35:17+01:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -17,12 +17,9 @@
         <link href="https://bystrymokiem.pl/wroc-kiedy-bedziesz-gotowy/"/>
         <id>https://bystrymokiem.pl/wroc-kiedy-bedziesz-gotowy/</id>
         <media:content url="https://bystrymokiem.pl/media/posts/1/Dlon-na-djembe-nad-mglista-dolina.png" medium="image" />
-            <category term="@nadprodukcja"/>
-            <category term="#transformacja"/>
-            <category term="#respect for people"/>
-            <category term="#overproduction"/>
+            <category term="siedem strat"/>
+            <category term="marnotrawstwo"/>
             <category term="#mistrz-uczeń"/>
-            <category term="#craftmanship"/>
 
         <updated>2026-03-05T14:09:33+01:00</updated>
             <summary type="html">
@@ -46,13 +43,9 @@
         <link href="https://bystrymokiem.pl/zanim-padnie-robimy-to-cztery-modele-decyzyjne/"/>
         <id>https://bystrymokiem.pl/zanim-padnie-robimy-to-cztery-modele-decyzyjne/</id>
         <media:content url="https://bystrymokiem.pl/media/posts/7/2d4dd326-d6f0-44a5-a6c4-1778237d13e5.jpg" medium="image" />
-            <category term="#nemawashi"/>
-            <category term="#OneBreathOneCheck"/>
-            <category term="#Kaizen Shingo"/>
-            <category term="#Hansei"/>
-            <category term="#Hanko"/>
-            <category term="#Go-NoGo"/>
-            <category term="#Checklista"/>
+            <category term="one breathe-one check"/>
+            <category term="mechnika przepływu"/>
+            <category term="go-no go"/>
 
         <updated>2026-03-02T09:11:00+01:00</updated>
             <summary type="html">
@@ -93,12 +86,8 @@ Hansei to refleksja po fakcie skierowana nie na skutki tylko na założenia. Nie
         <link href="https://bystrymokiem.pl/czlowiek-w-ruchu/"/>
         <id>https://bystrymokiem.pl/czlowiek-w-ruchu/</id>
         <media:content url="https://bystrymokiem.pl/media/posts/6/Praca-na-linii-produkcyjnej.png" medium="image" />
-            <category term="#safety first"/>
-            <category term="#people flow"/>
-            <category term="#muri"/>
-            <category term="#line layout"/>
-            <category term="#ergonomia"/>
-            <category term="#Kaizen ergonomics"/>
+            <category term="mechnika przepływu"/>
+            <category term="kaizen"/>
 
         <updated>2026-02-25T17:50:00+01:00</updated>
             <summary type="html">
@@ -138,9 +127,8 @@ Nie wszystko jest do przewidzenia, ale czas poświęcony na analizę wariantów 
         <link href="https://bystrymokiem.pl/geometria-jako-pierwsza-decyzja-o-przeplywie/"/>
         <id>https://bystrymokiem.pl/geometria-jako-pierwsza-decyzja-o-przeplywie/</id>
         <media:content url="https://bystrymokiem.pl/media/posts/5/ChatGPT-Image-6-mar-2026-08_07_27.png" medium="image" />
-            <category term="#mechanika przepływu"/>
-            <category term="#line layout"/>
-            <category term="#liczba Reynoldsa"/>
+            <category term="mechnika przepływu"/>
+            <category term="layout"/>
 
         <updated>2026-02-22T22:48:00+01:00</updated>
             <summary type="html">
@@ -170,14 +158,9 @@ Wybór układu linii to decyzja, którą łatwo odłożyć na koniec projektu in
         <link href="https://bystrymokiem.pl/przeplyw-w-malych-partiach-jako-dojrzaly-kompromis-produkcyjny/"/>
         <id>https://bystrymokiem.pl/przeplyw-w-malych-partiach-jako-dojrzaly-kompromis-produkcyjny/</id>
         <media:content url="https://bystrymokiem.pl/media/posts/4/ChatGPT-Image-6-mar-2026-08_06_40.png" medium="image" />
-            <category term="#small batch flow"/>
-            <category term="#produkcja wsadowa"/>
-            <category term="#one piece flow"/>
-            <category term="#mechanika przepływu"/>
-            <category term="#little&#x27;s law"/>
-            <category term="#lead time"/>
-            <category term="#batch"/>
-            <category term="# WIP"/>
+            <category term="single piece flow"/>
+            <category term="prawo Little&#x27;a"/>
+            <category term="mechnika przepływu"/>
 
         <updated>2026-02-12T16:02:00+01:00</updated>
             <summary type="html">
@@ -202,9 +185,8 @@ W wielu realnych procesach odpowiedzią nie jest ani jedna sztuka, ani duża par
         <link href="https://bystrymokiem.pl/gdzie-zaczyna-sie-standard-wydajnosci/"/>
         <id>https://bystrymokiem.pl/gdzie-zaczyna-sie-standard-wydajnosci/</id>
         <media:content url="https://bystrymokiem.pl/media/posts/3/110-wyniku.png" medium="image" />
-            <category term="*RFT"/>
-            <category term="#bottle neck"/>
-            <category term="#FPY"/>
+            <category term="standard wydajności"/>
+            <category term="KPI"/>
 
         <updated>2026-02-05T09:10:00+01:00</updated>
             <summary type="html">
@@ -229,10 +211,8 @@ Sama inicjatywa została rozliczona uczciwie — również premią — pomimo fa
         <link href="https://bystrymokiem.pl/predictive-maintenance-raport-mniejszosci-na-hali-produkcyjnej/"/>
         <id>https://bystrymokiem.pl/predictive-maintenance-raport-mniejszosci-na-hali-produkcyjnej/</id>
         <media:content url="https://bystrymokiem.pl/media/posts/2/ChatGPT-Image-6-mar-2026-08_29_08.png" medium="image" />
-            <category term="@predictive maintenance"/>
-            <category term="#precog maintenance"/>
-            <category term="#machine learnig"/>
-            <category term="#CMMS"/>
+            <category term="utrzymanie ruchu"/>
+            <category term="maintenance"/>
 
         <updated>2026-01-29T10:20:00+01:00</updated>
             <summary type="html">
