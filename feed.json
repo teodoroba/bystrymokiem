@@ -24,7 +24,7 @@
                    "BEAN"
             ],
             "date_published": "2026-03-08T18:14:23+01:00",
-            "date_modified": "2026-03-15T21:53:17+01:00"
+            "date_modified": "2026-03-15T22:19:59+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/wroc-kiedy-bedziesz-gotowy/",
@@ -41,7 +41,7 @@
                    "marnotrawstwo"
             ],
             "date_published": "2026-03-05T14:09:33+01:00",
-            "date_modified": "2026-03-15T21:57:20+01:00"
+            "date_modified": "2026-03-15T22:21:57+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/zanim-padnie-robimy-to-cztery-modele-decyzyjne/",
@@ -59,7 +59,7 @@
                    "go-no go"
             ],
             "date_published": "2026-03-02T09:11:00+01:00",
-            "date_modified": "2026-03-07T09:32:47+01:00"
+            "date_modified": "2026-03-15T22:20:29+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/czlowiek-w-ruchu/",
@@ -76,7 +76,7 @@
                    "kaizen"
             ],
             "date_published": "2026-02-25T17:50:00+01:00",
-            "date_modified": "2026-03-07T09:31:51+01:00"
+            "date_modified": "2026-03-15T22:20:37+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/geometria-jako-pierwsza-decyzja-o-przeplywie/",
@@ -93,7 +93,7 @@
                    "layout"
             ],
             "date_published": "2026-02-22T22:48:00+01:00",
-            "date_modified": "2026-03-07T09:31:14+01:00"
+            "date_modified": "2026-03-15T22:20:45+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/przeplyw-w-malych-partiach-jako-dojrzaly-kompromis-produkcyjny/",
@@ -111,7 +111,7 @@
                    "mechnika przepływu"
             ],
             "date_published": "2026-02-12T16:02:00+01:00",
-            "date_modified": "2026-03-07T09:30:31+01:00"
+            "date_modified": "2026-03-15T22:21:00+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/gdzie-zaczyna-sie-standard-wydajnosci/",
@@ -128,7 +128,7 @@
                    "KPI"
             ],
             "date_published": "2026-02-05T09:10:00+01:00",
-            "date_modified": "2026-03-07T09:30:48+01:00"
+            "date_modified": "2026-03-15T22:21:08+01:00"
         },
         {
             "id": "https://bystrymokiem.pl/predictive-maintenance-raport-mniejszosci-na-hali-produkcyjnej/",
@@ -145,7 +145,7 @@
                    "maintenance"
             ],
             "date_published": "2026-01-29T10:20:00+01:00",
-            "date_modified": "2026-03-07T09:29:17+01:00"
+            "date_modified": "2026-03-15T22:21:25+01:00"
         }
     ]
 }
