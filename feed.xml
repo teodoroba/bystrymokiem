@@ -3,12 +3,130 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-03-15T22:21:57+01:00</updated>
+    <updated>2026-03-19T20:21:28+01:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
     <id>https://bystrymokiem.pl</id>
 
+    <entry>
+        <title>Psychologia wolumenu. Sukces marnotrawstwa.</title>
+        <author>
+            <name>Teodor Doroba</name>
+        </author>
+        <link href="https://bystrymokiem.pl/psychologia-wolumenu-sukces-marnotrawstwa/"/>
+        <id>https://bystrymokiem.pl/psychologia-wolumenu-sukces-marnotrawstwa/</id>
+
+        <updated>2026-03-19T20:16:45+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Wstęp Produkcja zachowuje się jak każdy układ fizyczny dążący do wyrownania potencjałów — płynie w kierunku najmniejszego oporu, którym dla produkcji masowej jest wolumen, spokojny i niepytający, narastający tak długo jak długo żaden sygnał z zewnątrz nie nakazie mu zwolnić. Hamulcem jest rynek w postaci&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Wstęp</h1>
+<p>Produkcja zachowuje się jak każdy układ fizyczny dążący do wyrownania potencjałów — płynie w kierunku najmniejszego oporu, którym dla produkcji masowej jest wolumen, spokojny i niepytający, narastający tak długo jak długo żaden sygnał z zewnątrz nie nakazie mu zwolnić. Hamulcem jest rynek w postaci zapotrzebowania klienta, ale rynek jest zewnętrzny wobec hali — przychodzi jako planowanie i estymowany popyt, który bywa przeszacowany albo zbyt ostrożny. Pierwszym beneficjentem tej produkcji jest magazyn wyrobów gotowych, który ma jedną właściwość, której rynek nie ma: skończoną pojemność.</p>
+<p>Ohno twierdził, że nadprodukcja jest matką wszystkich strat, i chodziło mu o coś precyzyjnego: aparat, który produkuje sprawnie ponad rzeczywiste zapotrzebowanie, osiąga wydajność lokalną bez uzasadnienia w popycie, mierząc parametry przepływu produkcji zamiast przepływu wartości. Cały aparat zarządczy, od OEE przez koszt jednostkowy po plan dzienny, jest skonstruowany tak, żeby nagradzać efektywny przepływ produkcji, niezależnie od tego na kiedy rynek tej produkcji potrzebuje i czy w ogóle. Shingo precyzował, że dlatego nadprodukcja jest najgroźniejszą ze strat, bo ukrywa wszystkie pozostałe będące konsekwencją wyprodukowania czegoś czego nikt nie zamówił.<sup>1</sup> Wytworzenie nadwyżki antycypuje koszty i natychmiast rodzi potrzebę dodatkowych zasobów do zarządzania tą nadwyżką: większego magazynu, dodatkowego transportu, dodatkowej administracji. Każda z tych potrzeb generuje kolejną, więc nadprodukcja jest źródłem łańcucha strat, który rachunkowość zarządcza spokojnie wpisuje w koszty operacyjne.</p>
+<blockquote>
+<p><em>Nadprodukcja, zanim jako zlecenie dotrze na halę, ma dwie twarze. Pierwsza to nieadekwatna odpowiedź na popyt — błędna w założeniach, przeskalowana, zniekształcona przez różne szczeble organizacji. Druga to brak odpowiedzi na zapotrzebowanie — odpowiedzią jest aparat wytwarzania niezależny od rynku, według sprawdzonych schematów i historycznych danych.</em></p>
+</blockquote>
+<p> </p>
+<h1>Część I — Nadprodukcja popytowa</h1>
+<p>Pierwszy typ nadprodukcji powstaje, gdy organizacja słyszy rynek jak w głuchym telefonie — sygnał przechodzi przez kolejne szczeble i każda ręka dodaje coś od siebie, do hali dociera już coś zupełnie innego niż oryginał. W zakładzie z kilkudziesięcioma SKU i różnymi kanałami sprzedaży ten mechanizm działa równolegle dla każdego produktu z osobna, bo zmienność popytu między nimi jest często większa niż między kwartałami. Dział handlowy dodaje bufor na wypadek zmienności zamówień, planowanie dodaje zapas bezpieczeństwa, produkcja zaokrągla do partii ekonomicznie opłacalnej czy wielkości wsadu minimalnego. Nikt nie kłamie, nikt nie ma złych intencji. Każdy optymalizuje lokalnie.</p>
+<h2><figure class="post__image"><img loading="lazy"  src="https://bystrymokiem.pl/media/posts/11/lancuch_v2.png" alt="" width="729" height="302" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v2-xs.png 300w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v2-sm.png 480w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v2-md.png 768w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v2-lg.png 1024w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v2-xl.png 1360w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v2-2xl.png 1600w"></figure></h2>
+<h2>Wskaźniki, które nagradzają skalę</h2>
+<p>W 1987 roku Johnson i Kaplan postawili tezę, która do dziś nie straciła aktualności: tradycyjna rachunkowość zarządcza została zbudowana pod logikę wolumenu, a nie przepływu, bo <em>absorption costing</em> sprawia, że im dłuższa seria, tym niższy koszt jednostkowy na papierze, nawet jeśli produkcja zasila magazyn, a nie odbiorcę.<sup>2</sup> Goldratt pokazał ten sam obraz od strony operacyjnej: lokalna optymalizacja każdego zasobu z osobna niszczy globalną przepustowość, więc linia pracująca na sto procent wydajności przy sprzedaży nienadążającej za tempem produkcji generuje wyłącznie zapas i robi to coraz sprawniej.<sup>3</sup> Deming był bardziej bezpośredni: normy liczbowe, targety tygodniowe i plany dzienne są twierdzą przeciwko doskonaleniu, bo operator który wyrobicł normę pyta czy może iść do domu, a nie czy wyrób jest potrzebny.<sup>4</sup></p>
+<p>Swoją drogą, czy ktoś zastanawiał się dlaczego Toyota chciała sprzedać sekrety swojego zarządzania światu, a zwłaszcza konkurencji? Odpowiedź jest prostsza niż się wydaje: nie sprzedała. W relacji z rozmowy między Ohno a Goldratt, Ohno przyznał wprost, że gdy zachodni goście przyjeżdżali do Toyoty, celowo kierował ich uwagę na skuteczne techniki, np. szybsze przezbrojenia, redukcję siedmiu strat, żeby nie dopuścić do zrozumienia całościowego podejścia.<sup>5</sup> Zachodnia adaptacja Lean dostała dokładnie tyle ile Ohno chciał dać. Lista siedmiu strat dostała własne certyfikaty, własne szkolenia i własnych ekspertów. System, który je spajał zniknął gdzieś po drodze. Oczywiście powrócił, jako szkoleniowy slogan, że bez zmiany mentalności i sposobu myślenia Lean nie zadziała. I to status quo ma się dobrze — wciąż wdrożenia kończą się niepowodzeniem, bo mentalność nie ma tej elastyczności i nie zmienia się w tym tempie co procesy. Tylko pytanie po co miałaby się zmieniać właściwie?</p>
+<h2>Natura ludzka i kultura wolumenu</h2>
+<p>Zatrzymanie linii jest stratą natychmiastową i widoczną, koszt nadprodukcji jest odroczony i rozproszony między magazyn, rotację zapasu i ewentualne odpisy, więc mózg managera waży te dwie rzeczy zgodnie z tym jak są widoczne i kiedy nastąpią. Kahneman opisał tę asymetrię między bólem straty a przyjemnością zysku jako jeden z fundamentalnych wzorów ludzkiego myślenia.<sup>6</sup> Do tego dochodzi coś co Cialdini nazywa zaangażowaniem i konsekwencją: jeśli zawsze produkowałem długie serie i zawsze to działało, zmiana jest przyznaniem się, że poprzednie decyzje były błędne, a ludzie wolą kontynuować błędną decyzję niż przyznać się do błędu, szczególnie gdy błąd jest systemowy i wszyscy go popełniają razem.<sup>7</sup> Argyris opisał organizacyjną warstwę tego zjawiska jako defensive routines: manager który nie zatrzymuje linii racjonalnie chroni się przed winą za przestój natychmiastowy i policzalny, zamiast przed winą za zapas który narośnie przez kwartał i zostanie wpisany w koszty roku.<sup>8</sup></p>
+<p><em>„Wszystko, co nie jest wartością z perspektywy klienta, jest stratą”</em> (Womack, Jones<sup>9</sup>) to zdanie, które brzmi oczywiście dopóki nie zestawisz go z systemem KPI, który nie dość, że nie zna klienta i jego wartości, to nagradza produkcję za inne osiągi. Głębsze podłoże jest kulturowe: systemy gospodarcze, które bazując na profitach z produkcji masowej wytworzyły logikę, w której wolumen jest domyślnym sygnałem zdrowia, a zatrzymanie znaczy kryzys, i zakład produkcyjny jest mikroskąlą tej logiki. W branżach z krótkimi datami ważności sprzężenie to ma twarde konsekwencje: zapas, który wyrosł z nadprodukcji nie czeka w nieskończoność, a rozlączność decyzji i jej kosztu w czasie jest jednym z powodów, dla których nadprodukcja jest tak trwała.</p>
+<h2>Push jako domyślna logika systemu</h2>
+<p>Push kontroluje przepustowość, ile wpuszczamy do systemu, pull kontroluje produkcję w toku, ile jest w systemie w danym momencie, i pull jest bardziej odporny na zmienność właśnie dlatego, że reaguje na rzeczywiste zapotrzebowanie, a nie na plan (Factory Physics, Hopp i Spearman<sup>10</sup>). Większość zakładów działa w logice push z powodów historycznych: cały aparat planistyczny jest zbudowany pod push i działa, a pull wymaga zaufania, że sygnał przyjdzie w odpowiednim momencie i że organizacja jest wystarczająco sprawna, żeby na niego odpowiedzieć. To zaufanie jest kulturowe, kanban można wdrożyć w tydzień, zaufanie do kanbanu buduje się miesiącami. Rother pokazał, że organizacja, która próbuje przejść z push na pull przez projekt wdrożeniowy zazwyczaj wraca do push po kilku miesiącach, bo nawyk jest silniejszy niż procedura.<sup>11</sup> JiT jest narzędziem, które wymusza produkcję pod rzeczywisty sygnał popytu, a jego wdrożenie jest problemem elastyczności organizacji i gotowości do tolerowania chwilowego braku zamiast chronicznego zapasu. Chwilowy brak jest negatywnym sygnałem dla wielu szczebli i nie jest tolerowany w takim stopniu jak chroniczny zapas, który bywa wręcz nagradzany.</p>
+<h2>Jak wygląda obrona status quo w nadprodukcji popytowej</h2>
+<p>W łańcuchu wzmacniania popytu każdy szczebel ma swoje uzasadnienie i swoją obronę. Razem tworzą układ racjonalny na każdym poziomie i irracjonalny jako całość.</p>
+<p><strong>Dział handlowy</strong> buduje prognozę wyższą niż historyczna sprzedaż, bo plan wzrostu jest celem firmy, a niedoszacowanie forecastu oznacza brak premii. Gdy zapas rośnie, argumentem jest nieprzewidywalność rynku i zmienność klienta — nie optymizm prognozy. Każdy Key Account Manager wie, że brak towaru u klienta jest jego osobistym problemem. Nadmiar towaru w magazynie — już nie.</p>
+<p><strong>Planowanie</strong> dodaje zapas bezpieczeństwa do każdego SKU, bo niestabilność dostawców i wahania popytu są realne. Planista, który nie ma zapasu i wystąpi brak u klienta jest winny. Planista, który ma za dużo zapasu — jest ostrożny. Mechanizm premiowy nagradza asekurację w górę, nie precyzję.</p>
+<p><strong>Finanse</strong> widzą w absorption costing argument za długimi seriami: im więcej produkujemy, tym niższy koszt jednostkowy na papierze. Zapas w magazynie to aktywo w bilansie, nie koszt — dopóki nie stanie się odpisem. A odpisy wchodzą do ksiąg kwartał później, pod inną pozycją, bez związku z decyzją produkcyjną, która je wygenerowała.</p>
+<p><strong>Operacje</strong> realizują plan, bo taki jest ich mandat. OEE rośnie, koszt jednostkowy spada, przezbrojenia są rzadkie. Każdy wskaźnik mówi sukces. Gdy ktoś pyta dlaczego zapas rośnie, odpowiedź brzmi: sprzedaż nie realizuje planu. Produkcja zrobiła co do niej należało.</p>
+<p><strong>CI / Lean Manager</strong> przeprowadził root cause analysis, zidentyfikował demand volatility jako główny driver nadmiaru zapasów i wdrożył kanban skalibrowany na historical demand. Raport CI pokazuje zielone liczby, oszczędności udokumentowane.</p>
+<h1>Część II — Nadprodukcja strukturalna</h1>
+<p>Drugi typ nadprodukcji jest głębszy i trudniejszy do wyeliminowania, bo nie wynika z błędnego odczytu rynku. Wynika z tego, że aparat zarządczy w ogóle nie pyta o popyt. Pięć niezależnych logik organizacyjnych produkuje według własnych reguł, własnych wskaźników i własnych systemów motywacyjnych. Każda wzmacnia pozostałe. Razem tworzą strukturę samowzmacniającą się — dokładnie tak jak opisywał Senge analizując reinforcing loops w złożonych systemach organizacyjnych.<sup>12</sup> Po rozrysowaniu jej w formie diagramu, wychodzi nam zgrabny kwiatek, który nazwałem sobie kwiatem marnotrawstwa — który często podlewamy, każdy z własnej konewki, z własnych dobrych powodów i według swoich kryteriów.`</p>
+<figure class="post__image"><img loading="lazy"  src="https://bystrymokiem.pl/media/posts/11/Nadprod_TD2.png" alt="" width="1298" height="899" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/11/responsive/Nadprod_TD2-xs.png 300w ,https://bystrymokiem.pl/media/posts/11/responsive/Nadprod_TD2-sm.png 480w ,https://bystrymokiem.pl/media/posts/11/responsive/Nadprod_TD2-md.png 768w ,https://bystrymokiem.pl/media/posts/11/responsive/Nadprod_TD2-lg.png 1024w ,https://bystrymokiem.pl/media/posts/11/responsive/Nadprod_TD2-xl.png 1360w ,https://bystrymokiem.pl/media/posts/11/responsive/Nadprod_TD2-2xl.png 1600w"></figure>
+<h2>Pięć logik organizacyjnych</h2>
+<p>Pierwsza logika jest <strong>zatrudnieniowa</strong>. Kierownik produkcji i kierownik utrzymania ruchu działają w układzie, gdzie linia stojąca generuje pytania, a linia jadąca generuje spokój. Uzasadnienie korzyści: utrzymuję zatrudnienie, chronię swój dział, unikam kosztów zwolnień i rekrutacji. Zapas, który z tego powstaje jest kosztem rozproszonym, niewidocznym w momencie decyzji.<sup>13</sup></p>
+<p>Druga logika opiera się na silnej roli <strong>kosztu jednostkowego</strong>. Kontroler finansowy i księgowość widzą w długiej serii ten sam mechanizm co Johnson i Kaplan: im więcej jednostek, tym niższy koszt. Argument własny: poprawiam marżę na papierze, rozliczam przezbrojenie, wykazuję efektywność kosztową. Rachunkowość zarządcza tę drugą połowę kosztu przypisuje gdzie indziej i kiedy indziej niż decyzję, która go wygenerowała.<sup>14</sup></p>
+<p>Trzecia logika dotyczy <strong>buforów i ciągłości dostaw</strong>. Planista i dyrektor handlowy wiedzą, że niepewny forecast i niestabilni dostawcy to realne ryzyko. Rachunek własny: zabezpieczam ciągłość dostaw, chronię poziom serwisu, ubezpieczam się przed brakiem towaru. Zapas jako odpowiedź na niepewność jest intuicyjnie zrozumiały i trudny do zakwestionowania. Tworzy jednak inne ryzyko: zamrożony kapitał, zajęta przestrzeń magazynowa, ukryta informacja o tym gdzie naprawdę leżą problemy systemu.<sup>15</sup></p>
+<p>Czwarta logika to domena wskaźników, <strong>wydajnościowa OEE i KPI</strong>. Dyrektor operacyjny i prezes widzą w OEE 95% dowód sprawności operacyjnej i argument przed radą nadzorczą. Cel własny: wykazuję wysoką dostępność linii, bronię budżetu, uzasadniam premię. Pytanie czy ta sprawność ma uzasadnienie w rzeczywistym zapotrzebowaniu pada rzadko, bo z reguły nie jest częścią żadnego wskaźnika.<sup>16</sup></p>
+<p>Piąta logika jest <strong>optymalizacji i ciągłego doskonalenia</strong>. Lean Manager, Dyrektor CI i zewnętrzni konsultanci prowadzą projekty które wykazują oszczędności, poprawiają wskaźniki i dokumentują sukcesy. Mandat własny: doskonalię procesy, wykazuję wartość dodaną, legitymizuję swoje istnienie w organizacji. Problem polega na tym, że optymalizują aparat, który generuje nadprodukcję, zamiast go kwestionować. CI wkalibrowane w push optymalizuje push. Kanban ustawiony na historycznym popycie utrwala historyczny bufor. Projekt SMED skraca przezbrojenie, ale nie pyta, czy linia powinna jechać dłużej czy krócej. Senge nazwałby to Fixes That Fail — rozwiązanie, które krótkoterminowo poprawia wynik, długoterminowo wzmacnia problem.<sup>17</sup></p>
+<p>Każda z tych pięciu logik ma swojego właściciela, który działa zgodnie z własnym interesem. Razem produkują niezależnie od tego czy ktoś tego potrzebuje — i nagradzają każdego za ten wynik.</p>
+<h2>Jak wygląda obrona status quo w nadprodukcji strukturalnej</h2>
+<p>Każda logika ma swoją tarczę. Tarcza składa się z argumentów które są lokalnie poprawne i które razem tworzą tarczę nieprzepuszczalną dla zewnętrznej krytyki.</p>
+<h3>Tarcza zatrudnieniowa</h3>
+<ol>
+<li><strong> Produkcji: </strong><em>Jak ktoś pyta dlaczego linia jedzie przy niskim popycie, mówię że muszę utrzymać zdolność produkcyjną i nie mogę ryzykować braku ludzi na szczycie sezonu.</em></li>
+<li><strong> UR: </strong><em>Rozruch po dłuższym przestoju kosztuje więcej niż ciągła praca. Awarie zdarzają się przy starcie. Ciągłość pracy to stabilność procesu.</em></li>
+</ol>
+<p><strong>HR: </strong><em>Koszt zwolnień, odpraw i późniejszej rekrutacji jest wyższy niż koszt utrzymania załogi w przestoju. Redukcja zatrudnienia to decyzja strategiczna, nie operacyjna.</em></p>
+<p><strong>Związki zawodowe: </strong><em>Każde ograniczenie produkcji to zagrożenie dla miejsc pracy. Mamy porozumienie zbiorowe.</em></p>
+<p><strong>CI / Lean Manager: </strong><em>Root cause analiza potwierdza: downtime to strata oczekiwania przeliczana na twarde zł. Projekt wykazał oszczędności z utrzymania ciągłości.</em></p>
+<h3>Tarcza kosztu jednostkowego</h3>
+<p><strong>Kontroler finansowy: </strong><em>Krótsze serie podbiją koszt jednostkowy o kilkanaście procent. Stracimy marżę. To jest udokumentowane w modelu kosztowym.</em></p>
+<p><strong>Księgowość: </strong><em>Im więcej produkujemy, tym więcej kosztów stałych absorbujemy w jednostkę. To jest logika tego modelu.</em></p>
+<p><strong>Dyrektor finansowy: </strong><em>Zapas rośnie, bo sprzedaż nie realizuje planu. Produkcja zrobiła co do niej należało — obniżyła koszt jednostkowy.</em></p>
+<p><strong>CI / Lean Manager: </strong><em>Projekt redukcji kosztów został dowieziony zgodnie z planem. Savings z długich serii są zmierzone i udokumentowane.</em></p>
+<h3>Tarcza buforów i ciągłości</h3>
+<p><strong>Planista: </strong><em>Dostawcy są niestabilni. Muszę mieć zapas bezpieczeństwa. Jak nie będzie towaru, to kto odpowie?</em></p>
+<p><strong>Dyrektor Handlowy: </strong><em>Klient nie może czekać. Brak towaru to utracona sprzedaż i utracony klient. Tego nie odrobisz.</em></p>
+<p><strong>Key Account Manager: </strong><em>Właśnie negocjujemy kontrakt z siecią. Nie mogę sobie pozwolić na brak towaru w tym momencie.</em></p>
+<p><strong>CI / Lean Manager: </strong><em>Kanban został wdrożony zgodnie z methodology. Safety stock skalkulowany na bazie historycznego popytu i zmienności lead time’u dostawców.</em></p>
+<h3>Tarcza OEE i wydajności</h3>
+<p><strong>Dyrektor operacyjny: </strong><em>Sprzedaż nie realizuje planu. Produkcja dostarczyła co obiecaliśmy. Problem leży po stronie rynku.</em></p>
+<p><strong>Prezes: </strong><em>Inwestorzy i rada nadzorcza patrzą na wykorzystanie aktywów. Linia stojąca to pytanie o sensowność inwestycji.</em></p>
+<p><strong>Dyrektor ds. produkcji: </strong><em>Bez wysokiego OEE nie mamy przepustowości na szczyty. To jest rezerwa strategiczna.</em></p>
+<p><strong>CI / Lean Manager: </strong><em>Projekt poprawy OEE zamknięty, oszczędności udokumentowane, case study opublikowane. Wyniki w górnym kwartylu. Wskaźniki zielone. Następny krok: kolejny kaizen event.</em></p>
+<h3>Tarcza optymalizacji i ciągłego doskonalenia</h3>
+<p><strong>Lean Manager: </strong><em>Wdrażam narzędzia, które redukują marnotrawstwo. Wykazuję oszczędności. Raporty pokazują poprawę wskaźników. Tego wymaga organizacja.</em></p>
+<p><strong>Dyrektor CI: </strong><em>Każdy projekt musi mieć policzalne rezultaty. Nie mogę kwestionować czego aparat nagradza — mogę go optymalizować.</em></p>
+<p><strong>Zewnętrzny konsultant: </strong><em>Wdrożyłem pięć podobnych projektów. Metodologia jest sprawdzona. Wyniki są mierzalne. Certyfikacja potwierdzona.</em></p>
+<p>Piąta logika jest paradoksem który Senge opisywał precyzyjnie: im sprawniej CI optymalizuje aparat generujący nadprodukcję, tym trwalszy się staje. Doskonalenie bez kwestionowania co się doskonali jest jego najskuteczniejszą obroną.<sup>17</sup></p>
+<p>Każda rola ma swoją odpowiedź. Każda odpowiedź jest poprawna na swoim szczeblu zarządczym. Piąta logika domyka tarczę — nadaje jej pozory ciągłego doskonalenia. Podlewa chwast zamiast go wyrwać.</p>
+<h2>Jak to wygląda w praktyce. </h2>
+<p>Poniższy przykład ilustruje jak oba typy nadprodukcji działają jednocześnie w jednym zakładzie. Dane są syntetyczne, ale mechanizm jest autentyczny.</p>
+<p><strong>Zakład mleczarski, linia serów żółtych, 2023–2025</strong></p>
+<p><em>W 2023 roku uruchomiono nową linię serów dojrzewających o zdolności 1,2 t/zmianę. Bonusy kierowników uzależniono w 60% od OEE i wykonania planu wolumenowego. Plan na 2024 rok zakładał wzrost sprzedaży serów o 14%. Rzeczywisty wzrost wyniósł 3%.</em></p>
+<p><em>Efekt: średnia seria skoczyła z 18–22 h do 36–48 h. OEE wzrosło z 78% do 91%. Koszt jednostkowy na papierze spadł o 11%.</em></p>
+<p><em>Kwartał później: zapasy w dojrzewalni przekroczyły 140 dni przy normie 75–90. 18% partii weszło w strefę „blisko terminu” i musiało iść do promocji B2B po 30–40% rabacie. Odpisy z przeterminowania i przeceń sięgnęły 7% marży brutto kategorii. Dodatkowy etat w logistyce wewnętrznej plus dwie nowe regały wysokiego składowania.</em></p>
+<p><em>W tym samym czasie przezbrojenia trwały średnio 4 h 40 min wobec 2 h 10 min rok wcześniej. Nikt nie interweniował, bo OEE było rekordowe, a koszt jednostkowy spadał.</em></p>
+<p><em>Ktoś policzył dopiero na kwartalnym przeglądzie controllingu, gdy cash flow nie schodził się z zyskiem na papierze: kapitał zamrożony w nadwyżce przekraczał 600 tys. zł. Koszty promocji ratunkowej i odpisów dołożyły kolejne 125 tys. zł. Razem ponad ćwierć miliona złotych straty na marży — w kwartale gdy OEE było rekordowe.</em></p>
+<p><em>Błędem nie była decyzja produkcyjna — linia działała poprawnie. Błędem było to, że błędna prognoza sprzedaży nie miała żadnej konsekwencji dla procesu planowania. Precyzja prognozy nie była mierzona. Nie była mierzona, bo nikt nie pytał czy prognoza jest narzędziem planowania czy celem sprzedażowym przebranym za liczbę.</em></p>
+<p><strong><em>Czas między błędną prognozą a pierwszą decyzją korygującą produkcję to jeden z najważniejszych parametrów, których większość zakładów nie mierzy — bo jego koszt jest rozproszony, odroczony i niewidoczny dla nikogo kto jest premiowany za coś innego.</em></strong></p>
+<p> </p>
+<h2>Podsumowanie</h2>
+<p>Każdy zrobił co do niego należało — tylko magazyn pęka w szwach. Nadprodukcja popytowa narasta gdy organizacja słyszy rynek przez pryzmat buforów, optymizmu i rachunkowości absorpcyjnej. Nadprodukcja strukturalna — gdy pięć logik pracuje bez pytania. Obie są niewidoczne dla mechanizmu, który je generuje.</p>
+<p>Lean nazywa to stratą numer jeden z konkretnego powodu: produkcja bez uzasadnienia w rzeczywistym zapotrzebowaniu uruchamia łańcuch kosztów rozpisanych na wiele miejsc i wiele kwartałów, skutecznie ukrywając związek między decyzją a jej konsekwencją. Skala jest mierzalna. Niewidoczność jest groźna. Piąta logika — optymalizacji i ciągłego doskonalenia — domyka ten obraz: im sprawniej CI optymalizuje aparat generujący nadprodukcję, tym trwalszy się staje.</p>
+<p>JiT jest odpowiedzią na obie — narzędziem, które wymusza produkcję pod rzeczywisty sygnał zamiast pod plan. Ale sama technika nie wystarczy. Dopóki wskaźniki mierzą procesy zamiast wartości, dopóki aparat zarządczy nagradza wolumen a nie przepływ, każda z pięciu logik będzie robiła swoje. I kwiat będzie rósł.</p>
+<h2>Przypisy</h2>
+<p><sup>1</sup> Kanban Just-in-Time at Toyota: Management begins at the workplace, Japan Management Association, Productivity Press, 1986.</p>
+<p><sup>2</sup> H. Thomas Johnson, Robert S. Kaplan, Relevance Lost: The Rise and Fall of Management Accounting, Harvard Business School Press, 1987.</p>
+<p><sup>3</sup> Eliyahu M. Goldratt, Jeff Cox, The Goal: A Process of Ongoing Improvement, North River Press, 1984.</p>
+<p><sup>4</sup> W. Edwards Deming, Out of the Crisis, MIT Press, 1986.</p>
+<p><sup>5</sup> R.M. Pirasteh, R.E. Fox, Profitability With No Boundaries, Publish Authority, 2015.</p>
+<p><sup>6</sup> Daniel Kahneman, Thinking, Fast and Slow, Farrar, Straus and Giroux, 2011.</p>
+<p><sup>7</sup> Robert B. Cialdini, Influence: The Psychology of Persuasion, Harper Business, 1984.</p>
+<p><sup>8</sup> Chris Argyris, Overcoming Organizational Defenses, Prentice Hall, 1990.</p>
+<p><sup>9</sup> James P. Womack, Daniel T. Jones, Lean Thinking, Simon &amp; Schuster, 1996.</p>
+<p><sup>10</sup> Wallace J. Hopp, Mark L. Spearman, Factory Physics, Irwin/McGraw-Hill, 1996.</p>
+<p><sup>11</sup> Mike Rother, Toyota Kata, McGraw-Hill, 2009.</p>
+<p><sup>12</sup> Peter Senge, The Fifth Discipline: The Art and Practice of the Learning Organization, Currency Doubleday, 1990.</p>
+<p><sup>13</sup> Taiichi Ohno, Toyota Production System: Beyond Large-Scale Production, Productivity Press, 1988.</p>
+<p><sup>14</sup> Shigeo Shingo, A Study of the Toyota Production System, Productivity Press, 1989.</p>
+<p><sup>15</sup> Wallace J. Hopp, Mark L. Spearman, Factory Physics, Irwin/McGraw-Hill, 1996.</p>
+<p><sup>16</sup> Eliyahu M. Goldratt, Jeff Cox, The Goal, North River Press, 1984.</p>
+<p><sup>17</sup> Peter Senge, The Fifth Discipline, op. cit.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fasolowe zarządzanie i człowiek który je blokował</title>
         <author>
