@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-03-21T10:16:29+01:00</updated>
+    <updated>2026-03-21T10:27:22+01:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -78,12 +78,15 @@
 <p>Czas pomiędzy rozpoznaniem błędnej prognozy, a pierwszą decyzją o jej korekcie można ściśle zdefiniować i warto to zrobić, bo to jedyny moment na ochronę przed długim łańcuchem strat z tytułu nadprodukcji. </p>
 </blockquote>
 <h3><figure class="post__image"><img loading="lazy"  src="https://bystrymokiem.pl/media/posts/11/skladniki-kosztu-nadprod-2.png" alt="" width="668" height="860" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-xs.png 300w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-sm.png 480w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-md.png 768w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-lg.png 1024w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-xl.png 1360w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-2xl.png 1600w"></figure></h3>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Do artykułu dołączam kalkulator w Excelu z pięcioma arkuszami. Arkusz <em>Dane SKU</em> zbiera wszystkie parametry wejściowe w jednym miejscu — produkcję, sprzedaż, koszty, stan magazynowy i parametry shelf life. Arkusz <em>Koszt nadprodukcji</em> liczy cztery składniki kosztu i ekstrapoluje je na miesiąc i rok. Arkusz <em>Moduł Shelf Life</em> klasyfikuje zapas w trzech strefach ryzyka i wycenia prawdopodobieństwo odpisu. Arkusz <em>Dashboard</em> zbiera sygnały alarmowe. Arkusz <em>Metodologia</em> opisuje każdą formułę, założenia upraszczające i literaturę.</p>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Kalkulator jest modelem deterministycznym — zakłada jednorodność zapasu i stałość parametrów. Dla szybkiej oceny ryzyka to wystarczy. Dla precyzji warto zastąpić średni wiek zapasu danymi FEFO z WMS.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"> </p>
 <h3>Podsumowanie</h3>
 <p>Każdy zrobił co do niego należało — tylko magazyn pęka w szwach. Nadprodukcja popytowa narasta, gdy organizacja słyszy rynek przez pryzmat buforów, optymizmu i rachunkowości absorpcyjnej. Nadprodukcja strukturalna — gdy pięć logik pracuje bez pytania. Obie są niewidoczne dla mechanizmu, który je generuje.</p>
 <p>Lean nazywa to stratą numer jeden z konkretnego powodu: produkcja bez uzasadnienia w rzeczywistym zapotrzebowaniu uruchamia łańcuch kosztów rozpisanych na wiele miejsc i wiele kwartałów, skutecznie ukrywając związek między decyzją a jej konsekwencją. Skala jest mierzalna. Niewidoczność jest groźna. Piąta logika — optymalizacji i ciągłego doskonalenia — domyka ten obraz: im sprawniej ciągłe doskonaleni optymalizuje aparat generujący nadprodukcję, tym trwalszy się staje.</p>
 <p>JiT jest odpowiedzią na obie — narzędziem, które wymusza produkcję pod rzeczywisty sygnał zamiast pod plan. Ale sama technika nie wystarczy i nie zawsze będzie skuteczna dla danej specyfiki branży. Dopóki wskaźniki mierzą procesy zamiast wartości, dopóki aparat zarządczy nagradza wolumen a nie przepływ — kwiat będzie rósł.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><em>Do artykułu dołączam kalkulator w Excelu z pięcioma arkuszami. Arkusz Dane SKU zbiera wszystkie parametry wejściowe w jednym miejscu — produkcję, sprzedaż, koszty, stan magazynowy i parametry shelf life. Arkusz Koszt nadprodukcji liczy cztery składniki kosztu i ekstrapoluje je na miesiąc i rok. Arkusz Moduł Shelf Life klasyfikuje zapas w trzech strefach ryzyka i wycenia prawdopodobieństwo odpisu. Arkusz Dashboard zbiera sygnały alarmowe. Arkusz Metodologia opisuje każdą formułę, założenia upraszczające i literaturę.</em></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><em>Kalkulator jest modelem deterministycznym — zakłada jednorodność zapasu i stałość parametrów. Dla szybkiej oceny ryzyka to wystarczy. Dla precyzji warto zastąpić średni wiek zapasu danymi FEFO z WMS.</em></p>
+<p>[⬇ Pobierz Kalkulator nadprodukcji] </p>
+<p><a href="Pobierz kalkulator" title="Policz koszt nadprodukcji">https://mega.nz/file/hZo3GbgR#YzJCfcTys9dZNk-mXwBzGpkbv305wO1MZF1XmoITbsc</a></p>
 <h2>Przypisy</h2>
 <p>1 Kanban Just-in-Time at Toyota: Management begins at the workplace, Japan Management Association, Productivity Press, 1986.</p>
 <p>2 H. Thomas Johnson, Robert S. Kaplan, Relevance Lost: The Rise and Fall of Management Accounting, Harvard Business School Press, 1987.</p>
