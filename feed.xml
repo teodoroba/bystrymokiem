@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-03-21T10:28:32+01:00</updated>
+    <updated>2026-03-21T10:35:29+01:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -86,7 +86,7 @@
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><em>Do artykułu dołączam kalkulator w Excelu z pięcioma arkuszami. Arkusz Dane SKU zbiera wszystkie parametry wejściowe w jednym miejscu — produkcję, sprzedaż, koszty, stan magazynowy i parametry shelf life. Arkusz Koszt nadprodukcji liczy cztery składniki kosztu i ekstrapoluje je na miesiąc i rok. Arkusz Moduł Shelf Life klasyfikuje zapas w trzech strefach ryzyka i wycenia prawdopodobieństwo odpisu. Arkusz Dashboard zbiera sygnały alarmowe. Arkusz Metodologia opisuje każdą formułę, założenia upraszczające i literaturę.</em></p>
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><em>Kalkulator jest modelem deterministycznym — zakłada jednorodność zapasu i stałość parametrów. Dla szybkiej oceny ryzyka to wystarczy. Dla precyzji warto zastąpić średni wiek zapasu danymi FEFO z WMS.</em></p>
 <p>[⬇ Pobierz Kalkulator nadprodukcji] </p>
-<p><a href="Pobierz kalkulator" title="Policz koszt nadprodukcji">https://mega.nz/file/hZo3GbgR#YzJCfcTys9dZNk-mXwBzGpkbv305wO1MZF1XmoITbsc</a></p>
+<p><a>https://mega.nz/folder/UJgjQYJT#Q86ApjX_jKbAi-1BRLdutQ</a></p>
 <h2>Przypisy</h2>
 <p>1 Kanban Just-in-Time at Toyota: Management begins at the workplace, Japan Management Association, Productivity Press, 1986.</p>
 <p>2 H. Thomas Johnson, Robert S. Kaplan, Relevance Lost: The Rise and Fall of Management Accounting, Harvard Business School Press, 1987.</p>
