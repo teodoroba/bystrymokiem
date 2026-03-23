@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-03-22T11:00:52+01:00</updated>
+    <updated>2026-03-23T21:53:23+01:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -17,19 +17,13 @@
         <link href="https://bystrymokiem.pl/psychologia-wolumenu-sukces-marnotrawstwa/"/>
         <id>https://bystrymokiem.pl/psychologia-wolumenu-sukces-marnotrawstwa/</id>
         <media:content url="https://bystrymokiem.pl/media/posts/11/72cbff9d-1b36-49f0-b5e4-d54959bf9962.jpg" medium="image" />
-            <category term="reinforcing loops"/>
-            <category term="push pull"/>
-            <category term="kwiat marnotrawstwa"/>
-            <category term="kalkulator excel"/>
-            <category term="factory physics"/>
-            <category term="defensive routines"/>
-            <category term="absorption costing"/>
-            <category term="JiT"/>
+            <category term="zarządzanie produkcją"/>
+            <category term="przepływ produkcji"/>
+            <category term="marnotrawstwo"/>
+            <category term="lean"/>
             <category term="@nadprodukcja"/>
-            <category term="7 strat"/>
-            <category term="#overproduction"/>
 
-        <updated>2026-03-22T11:00:52+01:00</updated>
+        <updated>2026-03-23T21:53:23+01:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/11/72cbff9d-1b36-49f0-b5e4-d54959bf9962.jpg" alt="" />
