@@ -27,7 +27,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/11/72cbff9d-1b36-49f0-b5e4-d54959bf9962.jpg" alt="" />
-                    Wstęp Produkcja zachowuje się jak każdy układ fizyczny dążący do wyrownania potencjałów — płynie w kierunku najmniejszego oporu, którym dla produkcji masowej jest wolumen, spokojny i niepytający, narastający tak długo jak długo żaden sygnał z zewnątrz nie nakaże mu zwolnić. Hamulcem jest rynek w postaci&hellip;
+                    Wstęp Produkcja zachowuje się jak każdy układ fizyczny dążący do wyrownania potencjałów — płynie w kierunku najmniejszego oporu, którym dla&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -52,11 +52,11 @@
 </blockquote>
 <h4>Push jako domyślna logika systemu</h4>
 <p><em>Push</em> kontroluje przepustowość, ile wpuszczamy do systemu, <em>pull</em> kontroluje produkcję w toku, ile jest w systemie w danym momencie, i pull jest bardziej odporny na zmienność właśnie dlatego, że reaguje na rzeczywiste zapotrzebowanie, a nie na plan (Factory Physics, Hopp i Spearman <sup>10</sup>). Większość zakładów działa w logice push z powodów historycznych gdyż cały aparat planistyczny jest zbudowany pod push i działa, a pull wymaga zaufania, że sygnał przyjdzie w odpowiednim momencie i że organizacja jest wystarczająco sprawna, żeby na niego odpowiedzieć. To zaufanie jest kulturowe, kanban można wdrożyć w tydzień, zaufanie do kanbanu buduje się miesiącami. Rother pokazał, że organizacja, która próbuje przejść z push na pull przez projekt wdrożeniowy zazwyczaj wraca do push po kilku miesiącach, bo nawyk jest silniejszy niż procedura.<sup>11</sup> JiT jest narzędziem, które wymusza produkcję pod rzeczywisty sygnał popytu, a jego wdrożenie jest problemem elastyczności organizacji i gotowości do tolerowania chwilowego braku zamiast chronicznego zapasu. Chwilowy brak jest negatywnym sygnałem dla wielu szczebli i nie jest tolerowany w takim stopniu jak chroniczny zapas, który bywa wręcz nagradzany. Nie zrealizowane zamówienie boli bardziej niż nieprecyzyjna prognoza generująca stratę w czasie, ponieważ reakcja klienta jest natychmiastowa, </p>
-<figure class="post__image"><img loading="lazy"  src="https://bystrymokiem.pl/media/posts/11/lancuch_v3.png" alt="" width="1309" height="247" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v3-xs.png 300w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v3-sm.png 480w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v3-md.png 768w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v3-lg.png 1024w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v3-xl.png 1360w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v3-2xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://bystrymokiem.pl/media/posts/11/lancuch_v3.png" alt="" width="1309" height="247" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v3-xs.png 300w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v3-sm.png 480w ,https://bystrymokiem.pl/media/posts/11/responsive/lancuch_v3-md.png 768w"></figure>
 <p>Każdy szczebel, który buduje nadprodukcję popytową ma własną obronę i własną rację. Dział handlowy chroni się za nieprzewidywalnością rynku, planowanie za niestabilnością dostawców, finanse za logiką oszczędności długich serii, operacje za realizacją planu, CI za skutecznymi projektami root cause. Razem tworzą układ racjonalny na każdym poziomie i irracjonalny jako całość — bo nikt nie jest rozliczany z globalnego kosztu nadprodukcji, tylko z lokalnego wskaźnika, który efektywnie ją generuje.</p>
 <h3>Część II — Nadprodukcja strukturalna</h3>
 <p>Drugi typ nadprodukcji jest głębszy i trudniejszy do wyeliminowania, bo nie wynika z błędnego odczytu rynku. Wynika z tego, że aparat zarządczy w ogóle nie pyta o popyt. Pięć niezależnych logik organizacyjnych produkuje według własnych reguł, własnych wskaźników i własnych systemów motywacyjnych. Każda wzmacnia pozostałe. Razem tworzą strukturę samowzmacniającą się — dokładnie tak jak opisywał Senge analizując <em>reinforcing loops</em> w złożonych systemach organizacyjnych.<sup>12</sup> Po rozrysowaniu jej w formie diagramu, wychodzi nam zgrabny kwiatek, który nazwałem sobie kwiatem marnotrawstwa— który często podlewamy, każdy z własnej konewki, z własnych dobrych powodów i według swoich kryteriów.</p>
-<h4><figure class="post__image"><img loading="lazy"  src="https://bystrymokiem.pl/media/posts/11/Kwiatm1.png" alt="" width="1549" height="1087" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/11/responsive/Kwiatm1-xs.png 300w ,https://bystrymokiem.pl/media/posts/11/responsive/Kwiatm1-sm.png 480w ,https://bystrymokiem.pl/media/posts/11/responsive/Kwiatm1-md.png 768w ,https://bystrymokiem.pl/media/posts/11/responsive/Kwiatm1-lg.png 1024w ,https://bystrymokiem.pl/media/posts/11/responsive/Kwiatm1-xl.png 1360w ,https://bystrymokiem.pl/media/posts/11/responsive/Kwiatm1-2xl.png 1600w"></figure></h4>
+<h4><figure class="post__image"><img loading="lazy"  src="https://bystrymokiem.pl/media/posts/11/Kwiatm1.png" alt="" width="1549" height="1087" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/11/responsive/Kwiatm1-xs.png 300w ,https://bystrymokiem.pl/media/posts/11/responsive/Kwiatm1-sm.png 480w ,https://bystrymokiem.pl/media/posts/11/responsive/Kwiatm1-md.png 768w"></figure></h4>
 <h4>Pięć logik organizacyjnych</h4>
 <p>Pierwsza logika jest <strong>zatrudnieniowa</strong>. Kierownik produkcji i kierownik utrzymania ruchu działają w układzie, gdzie zatrzymana linia generuje niewygodne pytania, a linia pracująca generuje spokój. Uzasadnienie korzyści: utrzymuję zatrudnienie, chronię swój dział, unikam kosztów zwolnień i rekrutacji, no i jest wydajność. Zapas, który z tego powstaje jest kosztem rozproszonym, niewidocznym w momencie decyzji.<sup>13</sup> Obrona tej logiki jest szczelna dlatego, że jej argumenty są prawdziwe: rozruch po przestoju kosztuje, awarie zdarzają się częściej przy starcie, redukcja zatrudnienia to decyzja strategiczna. Koszt zapasu, który narasta, gdy linia jedzie bez uzasadnienia w popycie jest odroczony i dlatego przegrywa w tym samym raporcie z natychmiastowym kosztem przestojów.</p>
 <p>Druga logika opiera się na silnej roli <strong>kosztu jednostkowego</strong>. Kontroler finansowy i księgowość widzą w długiej serii ten sam mechanizm co Johnson i Kaplan: im więcej jednostek, tym niższy koszt. Rachunkowość zarządcza tę drugą połowę kosztu przypisuje gdzie indziej i kiedy indziej niż decyzję, która go wygenerowała.<sup>14</sup> Tarcza tej logiki jest zbudowana z modelu kosztowego, który jest wewnętrznie spójny i poprawny w swoich granicach. Zapas w magazynie to aktywo, odpis to zdarzenie kwartał później, pod inną pozycją. Związek między decyzją o długiej serii a odpisem jest niewidoczny w standardowym raporcie.</p>
@@ -79,7 +79,7 @@
 <blockquote>
 <p>Czas pomiędzy rozpoznaniem błędnej prognozy, a pierwszą decyzją o jej korekcie można ściśle zdefiniować i warto to zrobić, bo to jedyny moment na ochronę przed długim łańcuchem strat z tytułu nadprodukcji. </p>
 </blockquote>
-<h3><figure class="post__image"><img loading="lazy"  src="https://bystrymokiem.pl/media/posts/11/skladniki-kosztu-nadprod-2.png" alt="" width="668" height="860" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-xs.png 300w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-sm.png 480w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-md.png 768w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-lg.png 1024w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-xl.png 1360w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-2xl.png 1600w"></figure></h3>
+<h3><figure class="post__image"><img loading="lazy"  src="https://bystrymokiem.pl/media/posts/11/skladniki-kosztu-nadprod-2.png" alt="" width="668" height="860" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-xs.png 300w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-sm.png 480w ,https://bystrymokiem.pl/media/posts/11/responsive/skladniki-kosztu-nadprod-2-md.png 768w"></figure></h3>
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"> </p>
 <h3>Podsumowanie</h3>
 <p>Każdy zrobił co do niego należało — tylko magazyn pęka w szwach. Nadprodukcja popytowa narasta, gdy organizacja słyszy rynek przez pryzmat buforów, optymizmu i rachunkowości absorpcyjnej. Nadprodukcja strukturalna — gdy pięć logik pracuje bez pytania. Obie są niewidoczne dla mechanizmu, który je generuje.</p>
@@ -122,7 +122,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/9/Beam-rules3.jpg" alt="" />
-                    "Fasolowe zarządzanie jest najbardziej rewolucyjną koncepcją zarządzania operacyjnego ostatniej dekady. Otwiera nową drogę — poza utartymi schematami Lean i Six Sigma. Organizacje które odważą się wdrożyć BEAN i jego pryncypia wejdą na poziom,który dotychczas był nieosiągalny." Dr. Ramon Estrella, University of the Philippines, Manila Marzec&hellip;
+                    "Fasolowe zarządzanie jest najbardziej rewolucyjną koncepcją zarządzania operacyjnego ostatniej dekady. Otwiera nową drogę — poza utartymi schematami Lean i Six&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -177,7 +177,7 @@ Zmiana myślenia? Tak. Ale nie własnego.
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/1/Dlon-na-djembe-nad-mglista-dolina.png" alt="" />
-                    Systemy gospodarcze, zarządcze i w efekcie produkcyjne, które przez dekady tanim kredytem przesuwały przyszłą konsumpcję na teraźniejszość i odbierały motywację do oszczędzania przy narastającej inflacji, wytworzyły kulturę, w której liczy się wolumen i szybkość wytwarzania. Ta zmiana dała dostępność i irracjonalny przyrost dóbr, których poprzednie&hellip;
+                    Systemy gospodarcze, zarządcze i w efekcie produkcyjne, które przez dekady tanim kredytem przesuwały przyszłą konsumpcję na teraźniejszość i odbierały motywację&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -203,7 +203,7 @@ Zmiana myślenia? Tak. Ale nie własnego.
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/7/2d4dd326-d6f0-44a5-a6c4-1778237d13e5.jpg" alt="" />
-                    W wielogodzinnych zebraniach, gdzie przy stole zasiadają najdrożsi menedżerowie firmy i gdzie łączna wartość ich roboczogodzin przekracza niejednokrotnie godzinny postój fabryki, zapada decyzja — i jest to prawidłowość godna uwagi — rzadko lepsza od tej, którą mogły podjąć trzy osoby w kwadrans przy espresso i&hellip;
+                    W wielogodzinnych zebraniach, gdzie przy stole zasiadają najdrożsi menedżerowie firmy i gdzie łączna wartość ich roboczogodzin przekracza niejednokrotnie godzinny postój&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -245,7 +245,7 @@ Hansei to refleksja po fakcie skierowana nie na skutki tylko na założenia. Nie
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/6/Praca-na-linii-produkcyjnej.png" alt="" />
-                    W tekście o układzie linii pisałem o tym, że decyzje przestrzenne mają długi ogon — zły układ kosztuje przez lata, bo zmiana go po uruchomieniu jest droga albo niemożliwa. Ergonomia ma ten sam problem co layout, z tą różnicą, że jest trudniej uchwytna — layout&hellip;
+                    W tekście o układzie linii pisałem o tym, że decyzje przestrzenne mają długi ogon — zły układ kosztuje przez lata,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -286,7 +286,7 @@ Nie wszystko jest do przewidzenia, ale czas poświęcony na analizę wariantów 
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/5/ChatGPT-Image-6-mar-2026-08_07_27.png" alt="Mechanika przeplywu w procesach produkcyjnych" />
-                    Liczba Reynoldsa opisuje charakter przepływu płynu w przewodzie: Re = ρvD/μ Gdy Re jest małe, przepływ jest laminarny: uporządkowany, przewidywalny, warstwowy. Gdy rośnie, pojawia się turbulencja. Nie stopniowo. Skokowo. To nie jest artykuł o reologii. Produkt na linii nie jest cieczą, operator nie jest cząsteczką&hellip;
+                    Liczba Reynoldsa opisuje charakter przepływu płynu w przewodzie: Re = ρvD/μ Gdy Re jest małe, przepływ jest laminarny: uporządkowany, przewidywalny,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -318,7 +318,7 @@ Wybór układu linii to decyzja, którą łatwo odłożyć na koniec projektu in
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/4/ChatGPT-Image-6-mar-2026-08_06_40.png" alt="" />
-                    W produkcji łatwo koncentrować się na wydajności pojedynczych stanowisk, trudniej na ilości pracy, którą sami wprowadzamy do systemu. Tymczasem to właśnie poziom pracy w toku (WIP – Work in Process), rozumianej jako wszystkie rozpoczęte lecz nieukończone jednostki znajdujące się między operacjami w największym stopniu determinuje&hellip;
+                    W produkcji łatwo koncentrować się na wydajności pojedynczych stanowisk, trudniej na ilości pracy, którą sami wprowadzamy do systemu. Tymczasem to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -344,7 +344,7 @@ W wielu realnych procesach odpowiedzią nie jest ani jedna sztuka, ani duża par
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/3/110-wyniku.png" alt="" />
-                    W zakładzie produkcyjnym jedna ze zmian przez pewien okres regularnie kończyła pracę 40–45 minut wcześniej niż pozostałe. Nie kosztem planu. Wydajność liczona na godzinę była wyraźnie wyższa od standardowej, plan wykonany, FPY bez odchyleń, co w raportach wyglądało jak czysty zysk. W takich sytuacjach szybko&hellip;
+                    W zakładzie produkcyjnym jedna ze zmian przez pewien okres regularnie kończyła pracę 40–45 minut wcześniej niż pozostałe. Nie kosztem planu.
                 ]]>
             </summary>
         <content type="html">
@@ -370,7 +370,7 @@ Sama inicjatywa została rozliczona uczciwie — również premią — pomimo fa
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/2/ChatGPT-Image-6-mar-2026-08_29_08.png" alt="" />
-                    W filmie “Raport mniejszości” (2002) w reżyserii Stevena Spielberga przyszłe zdarzenia są wykrywane nie dzięki harmonogramom, lecz dzięki wczesnym sygnałom ostrzegawczym. To moje skojarzenie — metafora, która pomaga mi myśleć o tym, jak dziś można patrzeć na utrzymanie ruchu. Klasyczne preventive maintenance opiera się na&hellip;
+                    W filmie “Raport mniejszości” (2002) w reżyserii Stevena Spielberga przyszłe zdarzenia są wykrywane nie dzięki harmonogramom, lecz dzięki wczesnym sygnałom&hellip;
                 ]]>
             </summary>
         <content type="html">
