@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-03-23T21:53:23+01:00</updated>
+    <updated>2026-03-24T13:30:15+01:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -16,23 +16,23 @@
         </author>
         <link href="https://bystrymokiem.pl/psychologia-wolumenu-sukces-marnotrawstwa/"/>
         <id>https://bystrymokiem.pl/psychologia-wolumenu-sukces-marnotrawstwa/</id>
-        <media:content url="https://bystrymokiem.pl/media/posts/11/72cbff9d-1b36-49f0-b5e4-d54959bf9962.jpg" medium="image" />
+        <media:content url="https://bystrymokiem.pl/media/posts/11/72cbff9d-1b36-49f0-b5e4-d54959bf9962-2.jpg" medium="image" />
             <category term="zarządzanie produkcją"/>
             <category term="przepływ produkcji"/>
             <category term="marnotrawstwo"/>
             <category term="lean"/>
             <category term="@nadprodukcja"/>
 
-        <updated>2026-03-23T21:53:23+01:00</updated>
+        <updated>2026-03-24T13:30:15+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://bystrymokiem.pl/media/posts/11/72cbff9d-1b36-49f0-b5e4-d54959bf9962.jpg" alt="" />
+                        <img src="https://bystrymokiem.pl/media/posts/11/72cbff9d-1b36-49f0-b5e4-d54959bf9962-2.jpg" alt="" />
                     Wstęp Produkcja zachowuje się jak każdy układ fizyczny dążący do wyrownania potencjałów — płynie w kierunku najmniejszego oporu, którym dla&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://bystrymokiem.pl/media/posts/11/72cbff9d-1b36-49f0-b5e4-d54959bf9962.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bystrymokiem.pl/media/posts/11/72cbff9d-1b36-49f0-b5e4-d54959bf9962-2.jpg" class="type:primaryImage" alt="" /></p>
                 <h3>Wstęp</h3>
 <p>Produkcja zachowuje się jak każdy układ fizyczny dążący do wyrownania potencjałów — płynie w kierunku najmniejszego oporu, którym dla produkcji masowej jest wolumen, spokojny i niepytający, narastający tak długo jak długo żaden sygnał z zewnątrz nie nakaże mu zwolnić. Hamulcem jest rynek w postaci zapotrzebowania klienta, ale rynek jest zewnętrzny wobec hali — przychodzi jako planowanie i estymowany popyt, który bywa przeszacowany albo zbyt ostrożny. Pierwszym beneficjentem tej produkcji jest magazyn wyrobów gotowych, który ma jedną właściwość, której rynek nie ma: skończoną pojemność.</p>
 <p>Ohno twierdził, że nadprodukcja jest matką wszystkich strat, i chodziło mu o coś precyzyjnego: aparat, który produkuje sprawnie ponad rzeczywiste zapotrzebowanie, osiąga wydajność lokalną bez uzasadnienia w popycie, mierząc parametry przepływu produkcji zamiast przepływu wartości. Cały aparat zarządczy, od OEE przez koszt jednostkowy po plan dzienny, jest skonstruowany tak, żeby nagradzać efektywny przepływ produkcji, niezależnie od tego na kiedy rynek tej produkcji potrzebuje i czy w ogóle. Shingo precyzował, że dlatego nadprodukcja jest najgroźniejszą ze strat, bo ukrywa wszystkie pozostałe będące konsekwencją wyprodukowania czegoś czego nikt nie zamówił. <sup>1</sup> Wytworzenie nadwyżki antycypuje koszty i natychmiast rodzi potrzebę dodatkowych zasobów do zarządzania tą nadwyżką: większego magazynu, dodatkowego transportu, dodatkowej administracji. Każda z tych potrzeb generuje kolejną, więc nadprodukcja jest źródłem łańcucha strat, który rachunkowość zarządcza spokojnie wpisuje w koszty operacyjne.</p>
