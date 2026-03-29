@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-03-29T22:53:30+02:00</updated>
+    <updated>2026-03-29T22:59:05+02:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -25,7 +25,7 @@
             <category term="MTO"/>
             <category term="ABC XYZ"/>
 
-        <updated>2026-03-29T22:53:30+02:00</updated>
+        <updated>2026-03-29T22:59:05+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/13/OJ3C6-2.jpg" alt="" />
@@ -206,24 +206,42 @@
     Im wyższe CV, tym droższy zapas bezpieczeństwa w MTS i tym silniejszy argument za MTO lub Hybrid. Rotacja zapasu — liczba obrotów w roku — mówi czy produkt w ogóle schodzi. Razem te dwie osie dają cztery ćwiartki z różnymi rekomendacjami:
   </p>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://bystrymokiem.pl/media/posts/13/tabela_sku_3.png" height="680" width="1920" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/13/responsive/tabela_sku_3-xs.png 300w ,https://bystrymokiem.pl/media/posts/13/responsive/tabela_sku_3-sm.png 480w ,https://bystrymokiem.pl/media/posts/13/responsive/tabela_sku_3-md.png 768w">
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="1">
+      <figure class="gallery__item">
+      <a href="https://bystrymokiem.pl/media/posts/13/gallery/tabela_sku_3.png" data-size="1920x680">
+        <img loading="lazy" src="https://bystrymokiem.pl/media/posts/13/gallery/tabela_sku_3-thumbnail.png" height="255" width="720" alt="" >
+      </a>
       
     </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://bystrymokiem.pl/media/posts/13/tabela_portfolio.png" height="840" width="2200" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/13/responsive/tabela_portfolio-xs.png 300w ,https://bystrymokiem.pl/media/posts/13/responsive/tabela_portfolio-sm.png 480w ,https://bystrymokiem.pl/media/posts/13/responsive/tabela_portfolio-md.png 768w">
-      
-    </figure>
+    </div>
+  </div>
 
   <p>
     Pasztet w słoiku i zupa dnia to dwa bieguny tego samego systemu. Pasztet ma termun przydatności do spożycia 90 dni i stabilny kontrakt z OPP — produkujesz kampanijnie, ryzyko odpisu minimalne, zamrożony kapitał akceptowalny. Zupa dnia jako gotowe danie ma shelf life 6 godzin — każda nadwyżka to odpad. Baza zamrożona ma shelf life 30 dni i może obsłużyć każdy kanał. Punkt przełączenia leży na etapie porcjowania i wydania — i to jest właśnie ta granica między push a pull w tej samej kuchni.
   </p>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://bystrymokiem.pl/media/posts/13/mapa_sku_schemat.png" height="1120" width="1800" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/13/responsive/mapa_sku_schemat-xs.png 300w ,https://bystrymokiem.pl/media/posts/13/responsive/mapa_sku_schemat-sm.png 480w ,https://bystrymokiem.pl/media/posts/13/responsive/mapa_sku_schemat-md.png 768w">
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="1">
+      <figure class="gallery__item">
+      <a href="https://bystrymokiem.pl/media/posts/13/gallery/tabela_portfolio.png" data-size="2200x840">
+        <img loading="lazy" src="https://bystrymokiem.pl/media/posts/13/gallery/tabela_portfolio-thumbnail.png" height="275" width="720" alt="" >
+      </a>
       
     </figure>
+    </div>
+  </div>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="1">
+      <figure class="gallery__item">
+      <a href="https://bystrymokiem.pl/media/posts/13/gallery/mapa_sku_schemat.png" data-size="1800x1120">
+        <img loading="lazy" src="https://bystrymokiem.pl/media/posts/13/gallery/mapa_sku_schemat-thumbnail.png" height="448" width="720" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
 
     <h2 id="hybrid-andnbsp-kiedy-klient-nie-czeka">
       Hybrid —&nbsp; kiedy klient nie czeka
@@ -258,10 +276,16 @@
       Case — jeden SKU przez model
     </h2>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://bystrymokiem.pl/media/posts/13/tabela_case_1.png" height="880" width="1920" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/13/responsive/tabela_case_1-xs.png 300w ,https://bystrymokiem.pl/media/posts/13/responsive/tabela_case_1-sm.png 480w ,https://bystrymokiem.pl/media/posts/13/responsive/tabela_case_1-md.png 768w">
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="1">
+      <figure class="gallery__item">
+      <a href="https://bystrymokiem.pl/media/posts/13/gallery/tabela_case_1.png" data-size="1920x880">
+        <img loading="lazy" src="https://bystrymokiem.pl/media/posts/13/gallery/tabela_case_1-thumbnail.png" height="330" width="720" alt="" >
+      </a>
       
     </figure>
+    </div>
+  </div>
 
   <p>
     Poziom obsługi 64% na poziomie gotowej zupy oznacza: produkuj tyle gotowych porcji żeby pokryć zamówienie w 64% dni. Reszta to akceptowane ryzyko drobnego niedoboru uzupełnianego doraźnie — tańsze niż utrzymanie bufora gotowych porcji przy shelf life 6 godzin.<br><br>Przy CR = 0,64 współczynnik Z ≈ 0,36. Zapas bezpieczeństwa na poziomie gotowej zupy: SS = 0,36 × 72 × √(0,75h/24h) ≈ 13 porcji — bardzo niski, bo model słusznie sugeruje że nie opłaca się budować bufora gotowego dania o shelf life 6h.<br><br>Rekomendacja: Hybrid z CODP na etapie porcjowania. Baza zamrożona (wywar, przecier dyni) w MTS z serią tygodniową — shelf life 30 dni pozwala na ekonomiczną partię. Finalizacja (rozcieńczenie, doprawienie, porcjowanie) pod potwierdzenie dziennej liczby podopiecznych, które wpływa do godziny 9:00. Gotowa zupa wychodzi na 12:00.<br><br>Przy tej rekomendacji ryzyko odpisu gotowych porcji spada szacunkowo o 70–80% w porównaniu do wcześniejszego modelu gdzie całą zupę produkowano rano bez potwierdzenia — a baza zamrożona obsługuje dodatkowo dwa inne kanały (catering eventowy, ciepłe napoje zimowe), co obniża jej jednostkowy koszt utrzymania zapasu.
