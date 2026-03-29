@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-03-29T10:25:58+02:00</updated>
+    <updated>2026-03-29T22:53:30+02:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -25,7 +25,7 @@
             <category term="MTO"/>
             <category term="ABC XYZ"/>
 
-        <updated>2026-03-29T10:08:48+02:00</updated>
+        <updated>2026-03-29T22:53:30+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/13/OJ3C6-2.jpg" alt="" />
@@ -111,10 +111,16 @@
       
     </figure>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://bystrymokiem.pl/media/posts/13/diagram_push_pull2-3.png" height="1360" width="2000" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/13/responsive/diagram_push_pull2-3-xs.png 300w ,https://bystrymokiem.pl/media/posts/13/responsive/diagram_push_pull2-3-sm.png 480w ,https://bystrymokiem.pl/media/posts/13/responsive/diagram_push_pull2-3-md.png 768w">
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="1">
+      <figure class="gallery__item">
+      <a href="https://bystrymokiem.pl/media/posts/13/gallery/diagram_push_pull2.png" data-size="2000x1360">
+        <img loading="lazy" src="https://bystrymokiem.pl/media/posts/13/gallery/diagram_push_pull2-thumbnail.png" height="490" width="720" alt="" >
+      </a>
       
     </figure>
+    </div>
+  </div>
 
   <p>
     <br><br>Dodatkowa zaleta pull: system z limitem WIP jest odporny na fluktuacje bez potrzeby precyzyjnego planowania pojemności. Nie musisz wiedzieć dokładnie ile wyprodukujesz w każdym tygodniu — limit sam reguluje obciążenie.
