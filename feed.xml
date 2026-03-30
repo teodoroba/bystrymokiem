@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-03-29T22:59:05+02:00</updated>
+    <updated>2026-03-30T21:52:15+02:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -16,7 +16,7 @@
         </author>
         <link href="https://bystrymokiem.pl/mts-mto-fmcg-newsvendor/"/>
         <id>https://bystrymokiem.pl/mts-mto-fmcg-newsvendor/</id>
-        <media:content url="https://bystrymokiem.pl/media/posts/13/OJ3C6-2.jpg" medium="image" />
+        <media:content url="https://bystrymokiem.pl/media/posts/13/newsbe.png" medium="image" />
             <category term="push pull"/>
             <category term="nadprodukcja"/>
             <category term="mapa SKU"/>
@@ -25,16 +25,16 @@
             <category term="MTO"/>
             <category term="ABC XYZ"/>
 
-        <updated>2026-03-29T22:59:05+02:00</updated>
+        <updated>2026-03-30T21:52:15+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://bystrymokiem.pl/media/posts/13/OJ3C6-2.jpg" alt="" />
+                        <img src="https://bystrymokiem.pl/media/posts/13/newsbe.png" alt="" />
                     Wstęp Produkcja pod zamówienia (MTO) i produkcja na magazynowanie (MTS) to nie dwie równorzędne strategie operacyjne. Make To Order opiera&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://bystrymokiem.pl/media/posts/13/OJ3C6-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bystrymokiem.pl/media/posts/13/newsbe.png" class="type:primaryImage" alt="" /></p>
                 
   <div class="post__toc">
     <h3>Spis treści</h3>
