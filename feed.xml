@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-04-26T23:13:03+02:00</updated>
+    <updated>2026-04-26T23:19:28+02:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -24,7 +24,7 @@
             <category term="chronocyklografia"/>
             <category term="7 strat"/>
 
-        <updated>2026-04-26T23:13:03+02:00</updated>
+        <updated>2026-04-26T23:19:28+02:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/18/gilbreth.png" alt="" />
@@ -45,7 +45,7 @@
 <p>Narzędziem, które zbudowała razem z Frankiem, była <em>chronocyklografia,</em> długa ekspozycja fotograficzna z małymi żarówkami przypiętymi do rąk operatora, rejestrująca w jednym kadrze cały ślad ruchu podczas wykonywania operacji, bez selekcji i bez interpretacji obserwatora, który notując ma tendencję do upraszczania tego co widzi.</p>
 <p>Wynik takiego zdjęcia jest niepokojący w swojej prostocie. Na ciemnym tle widać świetliste linie, pętle i nawroty, ślad dwóch rąk poruszających się przez kilkadziesiąt sekund w przestrzeni roboczej, i już na pierwszy rzut oka widać, które fragmenty tego śladu są prostymi łukami zmierzającymi do celu, a które zawracają, krążą i wracają w miejsce z którego wyszły. Każda taka pętla ma swoją przyczynę: narzędzie leży za daleko, materiał podany jest z niewłaściwej strony lub sekwencja operacji wymusza cofnięcie się o krok przed zrobieniem następnego. </p>
 <figure class="post__image post__image--left"><img loading="lazy" src="https://bystrymokiem.pl/media/posts/18/aPJLk-2.jpg" alt="" width="200" height="298" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/18/responsive/aPJLk-2-xs.jpg 300w ,https://bystrymokiem.pl/media/posts/18/responsive/aPJLk-2-sm.jpg 480w ,https://bystrymokiem.pl/media/posts/18/responsive/aPJLk-2-md.jpg 768w ,https://bystrymokiem.pl/media/posts/18/responsive/aPJLk-2-lg.jpg 1024w ,https://bystrymokiem.pl/media/posts/18/responsive/aPJLk-2-xl.jpg 1360w ,https://bystrymokiem.pl/media/posts/18/responsive/aPJLk-2-2xl.jpg 1600w">
-<figcaption>Rys. 2. Chronocyklografia - rejestracja ruchów</figcaption>
+<figcaption>Rys. 2. Dlugi czas naświetlania</figcaption>
 </figure>
 <p>Najbardziej znana chronocyklografia Gilbreth pochodzi z warsztatu i przedstawia operatora przy stole montażowym, ale mechanizm który ujawnia jest uniwersalny: ślad świetlny lewej ręki tworzy ciasne, powtarzalne łuki między dwoma punktami, podczas gdy prawa kreśli szersze, nieregularne pętle z wyraźnymi powrotami, co oznacza, że jedna ręka pracuje w rytmie, a druga szuka, i że ten rytm jest zakłócany za każdym razem gdy szukanie trwa dłużej niż powinno. Proporcja między łukami a pętlami jest miarą tego, ile ruchu w danej operacji jest ruchem celowym, a ile jest ruchem dodatkowym (i potencjalnie zbędnym) kosztem złego projektowania przestrzeni.</p>
 <p>To co Gilbreth zobaczyła w tym obrazie, a czego nie dawało się zobaczyć w arkuszu z pomiarami czasu, to fakt, że strata ruchowa nie jest przypadkowa ani indywidualna tylko jest wbudowana w układ stanowiska i dopóki układ się nie zmieni, każdy operator na tym miejscu będzie kreślił te same pętle, niezależnie od swojego doświadczenia i sprawności. </p>
@@ -55,7 +55,6 @@
 <figcaption>Rys. 4. Zasada trójkąta roboczego</figcaption>
 </figure>
 <p>Logika jest ta sama co przy geometrii całej linii: zakręt w układzie transportera i niepotrzebny nawrót ręki operatora są oporami tego samego rodzaju, różnią się tylko skalą, a koszt obydwu ujawnia się dokładnie wtedy, gdy system jest obciążony (szerzej o tym jak geometria linii ustawia wszystkie kolejne decyzje przepływowe: <a href="https://bystrymokiem.pl/geometria-jako-pierwsza-decyzja-o-przeplywi/">Geometria jako pierwsza decyzja o przepływie</a>). Dopóki ruchy operatora opierają się na figurze zbliżonej do trójkąta wyznaczanego przez swobodny zasięg ramion, istnieje szansa na minimalizowanie zbędnych nawrotów: im krótsze boki i im mniej wierzchołków, tym krótszy i stabilniejszy cykl. Każdy dodatkowy punkt, który operator musi odwiedzić w sekwencji, przekształca trójkąt w wielokąt, a każdy kolejny bok to nawrót, którego nie ma w normie, ale który pojawia się w zakłóceniu rytmu i zmęczeniu na koniec zmiany.</p>
-<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Gilbreth nigdy nie pracowała w jednym zakładzie, który można by nazwać jej halą: była zewnętrznym obserwatorem, konsultantką dla General Electric, Johnson &amp; Johnson, Macy's i Bethlehem Steel, która przychodziła z zewnątrz i patrzyła metodycznie. Narzędzie, które zostawiła, działa z taką samą precyzją na linii produkcyjnej jak w warsztacie montażowym, bo opisuje coś co jest właściwością relacji między ruchem a miejscem pracy, nie konkretnej branży ani epoki.</p>
 <figure class="post__image post__image--left"><img loading="lazy" src="https://bystrymokiem.pl/media/posts/18/chronoc-1.png" alt="" width="349" height="358" sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/18/responsive/chronoc-1-xs.png 300w ,https://bystrymokiem.pl/media/posts/18/responsive/chronoc-1-sm.png 480w ,https://bystrymokiem.pl/media/posts/18/responsive/chronoc-1-md.png 768w ,https://bystrymokiem.pl/media/posts/18/responsive/chronoc-1-lg.png 1024w ,https://bystrymokiem.pl/media/posts/18/responsive/chronoc-1-xl.png 1360w ,https://bystrymokiem.pl/media/posts/18/responsive/chronoc-1-2xl.png 1600w">
 <figcaption></figcaption>
 </figure>
@@ -75,6 +74,7 @@
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Najmniej znany wątek jej pracy to projektowanie stanowisk dla osób z niepełnosprawnościami, w tym weteranów wojennych po pierwszej wojnie światowej. Dostosowanie wysokości blatu, sekwencji ruchów i narzędzi do konkretnego człowieka, który nie mieści się w modelu referencyjnym, było wówczas podejściem bez nazwy. Dziś nazywa się to ergonomią inkluzywną i jest osobną dyscypliną. Gilbreth robiła to pół wieku wcześniej, zanim powstała terminologia.</p>
 <p>Wózek na kółkach, który Gilbreth dodała do swojej Kitchen Practical w 1929 roku jako ruchomy blat roboczy podjeżdżający do zlewu z brudnymi naczyniami, był czymś czego nikt wtedy tak nie nazywał: narzędziem które podąża za operatorem, nie operator za narzędziem, czyli prototypem logiki którą na hali produkcyjnej realizuje dziś wózek <em>mizusumashi</em> i każdy system dostarczania materiału do stanowiska na żądanie.</p>
 <p>Gilbreth projektowała wysokość blatu roboczego pod konkretną kobietę, z broszurą diagnostyczną i pytaniami o wzrost i zasięg ramion, a producenci wybrali standaryzację: jeden wymiar dla wszystkich, bo skala produkcji wygrywa z ergonomią indywidualną, i ta sama logika działa dziś na każdej hali gdzie stanowisko projektowane pod operatora referencyjnego obsługują operatorzy którzy odbiegają od tego modelu.</p>
+<p>Gilbreth nigdy nie pracowała w jednym zakładzie, który można by nazwać jej halą: była zewnętrznym obserwatorem, konsultantką dla General Electric, Johnson &amp; Johnson, Macy's i Bethlehem Steel, która przychodziła z zewnątrz i patrzyła metodycznie. Narzędzie, które zostawiła, działa z taką samą precyzją na linii produkcyjnej jak w warsztacie montażowym, bo opisuje coś co jest właściwością relacji między ruchem a miejscem pracy, nie konkretnej branży ani epoki.</p>
 <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Była pierwszą kobietą przyjętą do Amerykańskiego Towarzystwa Inżynierów Mechanicznych (ASME) i pierwszą, która uzyskała doktorat z psychologii przemysłowej. </p>
 <h2>Bibliografia</h2>
 <p>Alexandra Lange, <em>The Woman Who Invented the Kitchen</em>, Slate, 25 października 2012.</p>
