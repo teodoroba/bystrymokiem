@@ -3,7 +3,7 @@
     <title>Bystrym Okiem</title>
     <link href="https://bystrymokiem.pl/feed.xml" rel="self" />
     <link href="https://bystrymokiem.pl" />
-    <updated>2026-11-13T16:27:50+01:00</updated>
+    <updated>2026-11-13T16:39:10+01:00</updated>
     <author>
         <name>Teodor Doroba</name>
     </author>
@@ -22,7 +22,7 @@
             <category term="lean"/>
             <category term="5S"/>
 
-        <updated>2026-11-13T16:27:50+01:00</updated>
+        <updated>2026-11-13T16:39:10+01:00</updated>
             <summary type="html">
                 <![CDATA[
                         <img src="https://bystrymokiem.pl/media/posts/22/trzy-pojecia-minimalistyczna-grafika.png" alt="" />
@@ -71,7 +71,7 @@
 
   <p>
     Standaryzacja w szerokim sensie biznesowym obejmuje uproszczenie i specjalizację jako swoje szczególne cechy, ale każde z tych trzech pojęć jest osobną decyzją, podejmowaną przez kogoś innego, w innym momencie i z innymi konsekwencjami dla produkcji.
-<br>Specjalizację firma podejmuje sama, bo tylko ona może rozstrzygnąć, co w ogóle zamierza produkować, standaryzacja wymaga porozumienia wszystkich zainteresowanych stron, a uproszczenie jest rachunkiem handlowym, rozstrzygającym o tym, jakie odmiany i rozmiary obsłużą najszerszy rynek. Wszystkie trzy wpływają istotnie na produkcję, która ponosi ich skutki bezpośrednio, nie mając zwykle ani narzędzi, ani pozycji, żeby je zakwestionować, realizując zadania niekoniecznie najefektywniejsze z punktu widzenia efektywnego przepływu.
+<br>Specjalizację firma podejmuje sama, bo tylko ona może rozstrzygnąć, co w ogóle zamierza produkować, standaryzacja wymaga porozumienia wszystkich zainteresowanych stron, a uproszczenie jest rachunkiem handlowym, rozstrzygającym o tym, jakie odmiany i rozmiary obsłużą najszerszy rynek. Wszystkie trzy decyzje wpływają istotnie na produkcję, która ponosi ich skutki bezpośrednio i zwykle nie ma ani narzędzi, ani pozycji, żeby je zakwestionować, więc wykonuje zadania, które z punktu widzenia przepływu bywają dalekie od najefektywniejszych.
   </p>
 
     <figure class="post__image post__image--center">
@@ -102,8 +102,16 @@
     </figure>
 
   <p>
-    Specjalizacja to decyzja o tym co produkujesz, zanim zdecydujesz jak to produkujesz. W praktyce większość firm podejmuje tę decyzję odwrotnie: najpierw buduje zdolność produkcyjną, potem wypełnia ją asortymentem, a zakres tego asortymentu wyznacza historia kolejnych negocjacji z klientami, możliwości okazyjnie kupionej maszyny pakującej albo turbo promocja na starzejący się stock. Portfolio rośnie przez dodawanie i maleje znacznie rzadziej, bo tempo odejmowania zależy od siły argumentacji kontrolingu wobec apetytu zarządu na obrót. Tematykę omawiałem już szerzej w artykule:&nbsp;<a href="https://bystrymokiem.pl/mts-mto-fmcg-newsvendor/">https://bystrymokiem.pl/mts-mto-fmcg-newsvendor/</a><br>
-<br>Specjalizacja jednak nie wyklucza różnorodności wyrobu finalnego. Firma może produkować sto wariantów dla klienta i jednocześnie być wysoce wyspecjalizowana, jeśli te sto wariantów opiera się na wspólnej platformie komponentów i procesów. Różnorodność, którą widzi klient i różnorodność którą widzi produkcja to dwie różne rzeczy, i zarządzanie przestrzenią między nimi jest właśnie zadaniem specjalizacji. Uprościsz portfolio ze 300 do 100 SKU, poczekaj kilka lat i proporcja wróci, bo różnorodność jest właściwością świata, którą można jedynie tymczasowo okiełznać.
+    Specjalizacja to decyzja o tym co produkujesz, zanim zdecydujesz jak to produkujesz. W praktyce większość firm podejmuje tę decyzję odwrotnie: najpierw buduje zdolność produkcyjną, potem wypełnia ją asortymentem, a zakres tego asortymentu wyznacza historia kolejnych negocjacji z klientami, możliwości okazyjnie kupionej maszyny pakującej albo turbo promocja na starzejący się stock. Portfolio rośnie przez dodawanie i maleje znacznie rzadziej, bo tempo odejmowania zależy od siły argumentacji kontrolingu wobec apetytu zarządu na obrót. Tematykę omawiałem już szerzej w artykule:&nbsp;<a href="https://bystrymokiem.pl/mts-mto-fmcg-newsvendor/">https://bystrymokiem.pl/mts-mto-fmcg-newsvendor/</a>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://bystrymokiem.pl/media/posts/22/rozne-kwiaty-wspolny-korzen.png" height="1086" width="1448" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/22/responsive/rozne-kwiaty-wspolny-korzen-xs.png 300w ,https://bystrymokiem.pl/media/posts/22/responsive/rozne-kwiaty-wspolny-korzen-sm.png 480w ,https://bystrymokiem.pl/media/posts/22/responsive/rozne-kwiaty-wspolny-korzen-md.png 768w ,https://bystrymokiem.pl/media/posts/22/responsive/rozne-kwiaty-wspolny-korzen-lg.png 1024w ,https://bystrymokiem.pl/media/posts/22/responsive/rozne-kwiaty-wspolny-korzen-xl.png 1360w ,https://bystrymokiem.pl/media/posts/22/responsive/rozne-kwiaty-wspolny-korzen-2xl.png 1600w">
+      
+    </figure>
+
+  <p>
+    Specjalizacja jednak nie wyklucza różnorodności wyrobu finalnego. Firma może produkować sto wariantów dla klienta i jednocześnie być wysoce wyspecjalizowana, jeśli te sto wariantów opiera się na wspólnej platformie komponentów i procesów. Różnorodność, którą widzi klient i różnorodność którą widzi produkcja to dwie różne rzeczy, i zarządzanie przestrzenią między nimi jest właśnie zadaniem specjalizacji. Uprościsz portfolio ze 300 do 100 SKU, poczekaj kilka lat i proporcja wróci, bo różnorodność jest właściwością świata, którą można jedynie tymczasowo okiełznać.
   </p>
 
     <h2 id="standaryzacja">
@@ -120,7 +128,16 @@
     </figure>
 
   <p>
-    Tam, gdzie standardu brakuje, jego rolę przejmuje człowiek: operator, który wie, że ta partia folii zgrzewa się inaczej, że dozownik trzeba "dociągnąć" sprężonym powietrzem przy gęstszej recepturze, że po zmianie dostawcy kartonów taśmę ustawia się pod zupełnie innym kątem, i który kompensuje to po cichu, więc linia wygląda na stabilną dopóty, dopóki on jest na zmianie. Ta wiedza nie trafia do arkusza parametrów procesu ani do żadnego budżetu, a jej koszt widać dopiero wtedy, gdy taki ktoś odchodzi z firmy. <br>Kluczowe jest więc uważne obserwowanie tych kompensacji, bo właśnie w nich kryje się prawdziwy potencjał do zmian i uproszczeń, a także do powstania nowego standardu, inspirowanego gemba walk, a wiadomo, żeby obserwować skutecznie, trzeba być w procesie, z otwartym umysłem. Tego bycia nie zastąpi żaden drobiazgowy raport, nawet wygenerowany z danych przez AI (który może popełniać błędy). <br>Standaryzacja receptury bazowej i formatów opakowań rozstrzyga o tym, ile takich cichych poprawek linia będzie wymagała: kilka wariantów zapachu na jednej bazie przestawia się parametrami dozowania, kilka wariantów na osobnych recepturach wymaga mycia, nowej nastawy i obserwacji pierwszych sztuk, a ten sam rozrzut dotyczy opakowań, gdzie jeden format z kilkoma etykietami oznacza krótką zmianę, a kilka formatów z różnymi zakrętkami oznacza wymianę głowic i ponowną regulację. Standard na produkcji sprawdza się w dniu, w którym ze zmiany odchodzi najlepszy operator, a linia wciąż pracuje tak samo. 
+    Tam, gdzie standardu brakuje, jego rolę przejmuje człowiek: operator, który wie, że ta partia folii zgrzewa się inaczej, że dozownik trzeba "dociągnąć" sprężonym powietrzem przy gęstszej recepturze, że po zmianie dostawcy kartonów taśmę ustawia się pod zupełnie innym kątem, i który kompensuje to po cichu, więc linia wygląda na stabilną dopóty, dopóki on jest na zmianie. Ta wiedza nie trafia do arkusza parametrów procesu ani do żadnego budżetu, a jej koszt widać dopiero wtedy, gdy taki ktoś odchodzi z firmy.<br>Kluczowe jest więc uważne obserwowanie tych kompensacji, bo właśnie w nich kryje się prawdziwy potencjał do zmian i uproszczeń, a także do powstania nowego standardu, inspirowanego gemba walk, a wiadomo, żeby obserwować skutecznie, trzeba być w procesie, z otwartym umysłem. Tego bycia nie zastąpi żaden drobiazgowy raport, nawet wygenerowany z danych przez AI (który może popełniać błędy).
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://bystrymokiem.pl/media/posts/22/dlon-zastepujaca-standard-poprawiona.png" height="1086" width="1448" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://bystrymokiem.pl/media/posts/22/responsive/dlon-zastepujaca-standard-poprawiona-xs.png 300w ,https://bystrymokiem.pl/media/posts/22/responsive/dlon-zastepujaca-standard-poprawiona-sm.png 480w ,https://bystrymokiem.pl/media/posts/22/responsive/dlon-zastepujaca-standard-poprawiona-md.png 768w ,https://bystrymokiem.pl/media/posts/22/responsive/dlon-zastepujaca-standard-poprawiona-lg.png 1024w ,https://bystrymokiem.pl/media/posts/22/responsive/dlon-zastepujaca-standard-poprawiona-xl.png 1360w ,https://bystrymokiem.pl/media/posts/22/responsive/dlon-zastepujaca-standard-poprawiona-2xl.png 1600w">
+      
+    </figure>
+
+  <p>
+    Standaryzacja receptury bazowej i formatów opakowań rozstrzyga o tym, ile takich cichych poprawek linia będzie wymagała: kilka wariantów zapachu na jednej bazie przestawia się parametrami dozowania, kilka wariantów na osobnych recepturach wymaga mycia, nowej nastawy i obserwacji pierwszych sztuk, a ten sam rozrzut dotyczy opakowań, gdzie jeden format z kilkoma etykietami oznacza krótką zmianę, a kilka formatów z różnymi zakrętkami oznacza wymianę głowic i ponowną regulację. Standard na produkcji sprawdza się w dniu, w którym ze zmiany odchodzi najlepszy operator, a linia wciąż pracuje tak samo.<br>
   </p>
 
     <h2 id="uproszczenie">
